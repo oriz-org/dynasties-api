@@ -1,0 +1,83 @@
+{
+  "slug": "chalukya-badami",
+  "name": "Chalukyas of Badami",
+  "alt_names": [
+    "Early Chalukyas",
+    "Badami Chalukyas"
+  ],
+  "period": {
+    "start": 543,
+    "end": 753,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Karnataka and northern Deccan",
+  "capitals": [
+    "Vatapi (Badami)"
+  ],
+  "rulers": [
+    {
+      "name": "Pulakeshin I",
+      "reign_start": 543,
+      "reign_end": 566,
+      "notes": "Founder; fortified Vatapi"
+    },
+    {
+      "name": "Kirtivarman I",
+      "reign_start": 566,
+      "reign_end": 597,
+      "notes": ""
+    },
+    {
+      "name": "Mangalesha",
+      "reign_start": 597,
+      "reign_end": 609,
+      "notes": ""
+    },
+    {
+      "name": "Pulakeshin II",
+      "reign_start": 610,
+      "reign_end": 642,
+      "notes": "Defeated Harsha on Narmada; received Persian envoy"
+    },
+    {
+      "name": "Vikramaditya I",
+      "reign_start": 655,
+      "reign_end": 680,
+      "notes": "Recaptured Vatapi from Pallavas"
+    },
+    {
+      "name": "Vinayaditya",
+      "reign_start": 680,
+      "reign_end": 696,
+      "notes": ""
+    },
+    {
+      "name": "Vijayaditya",
+      "reign_start": 696,
+      "reign_end": 733,
+      "notes": ""
+    },
+    {
+      "name": "Vikramaditya II",
+      "reign_start": 733,
+      "reign_end": 746,
+      "notes": "Sacked Kanchi"
+    },
+    {
+      "name": "Kirtivarman II",
+      "reign_start": 746,
+      "reign_end": 753,
+      "notes": "Last; overthrown by Rashtrakutas"
+    }
+  ],
+  "religion": "Hinduism (Shaiva and Vaishnava); Jainism patronised",
+  "predecessor": "vakataka",
+  "successor": "rashtrakuta",
+  "notable_achievements": [
+    "Cave temples at Badami and Aihole",
+    "Pulakeshin II defeated Harsha (only major check on Harshavardhana)",
+    "Aihole inscription of Ravikirti"
+  ],
+  "notes": ""
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "khalji",
+  "name": "Khalji Dynasty",
+  "alt_names": [
+    "Khilji Dynasty"
+  ],
+  "period": {
+    "start": 1290,
+    "end": 1320,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Most of subcontinent except deep south and east",
+  "capitals": [
+    "Delhi"
+  ],
+  "rulers": [
+    {
+      "name": "Jalal-ud-din Firuz Khalji",
+      "reign_start": 1290,
+      "reign_end": 1296,
+      "notes": "Founder"
+    },
+    {
+      "name": "Alauddin Khalji",
+      "reign_start": 1296,
+      "reign_end": 1316,
+      "notes": "Greatest Khalji; price controls, market reforms; conquered Gujarat, Rajasthan, Deccan"
+    },
+    {
+      "name": "Shihab-ud-din Omar",
+      "reign_start": 1316,
+      "reign_end": 1316,
+      "notes": ""
+    },
+    {
+      "name": "Qutb-ud-din Mubarak Shah",
+      "reign_start": 1316,
+      "reign_end": 1320,
+      "notes": "Last; killed by Khusrau Khan"
+    }
+  ],
+  "religion": "Islam (Sunni)",
+  "predecessor": "mamluk",
+  "successor": "tughlaq",
+  "notable_achievements": [
+    "Repelled multiple Mongol invasions",
+    "Market and revenue reforms (Diwan-i-Riyasat)",
+    "Malik Kafur's campaigns reached the deep south"
+  ],
+  "notes": ""
+}

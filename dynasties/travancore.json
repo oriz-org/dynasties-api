@@ -1,0 +1,53 @@
+{
+  "slug": "travancore",
+  "name": "Kingdom of Travancore",
+  "alt_names": [
+    "Venad"
+  ],
+  "period": {
+    "start": 1729,
+    "end": 1949,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Southern Kerala, parts of Tamil Nadu",
+  "capitals": [
+    "Padmanabhapuram",
+    "Thiruvananthapuram"
+  ],
+  "rulers": [
+    {
+      "name": "Marthanda Varma",
+      "reign_start": 1729,
+      "reign_end": 1758,
+      "notes": "Founder of modern Travancore; defeated Dutch at Colachel 1741"
+    },
+    {
+      "name": "Dharma Raja Karthika Thirunal",
+      "reign_start": 1758,
+      "reign_end": 1798,
+      "notes": "Resisted Tipu Sultan"
+    },
+    {
+      "name": "Swathi Thirunal",
+      "reign_start": 1829,
+      "reign_end": 1846,
+      "notes": "Composer of Carnatic music"
+    },
+    {
+      "name": "Chithira Thirunal Balarama Varma",
+      "reign_start": 1931,
+      "reign_end": 1949,
+      "notes": "Last; acceded to Indian Union"
+    }
+  ],
+  "religion": "Hinduism (Vaishnava)",
+  "predecessor": null,
+  "successor": null,
+  "notable_achievements": [
+    "Battle of Colachel (1741) — only Indian defeat of a European naval force",
+    "High literacy and education reforms",
+    "Princely state with progressive administration"
+  ],
+  "notes": "Partial ruler list — major rulers only."
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "kakatiya",
+  "name": "Kakatiya Dynasty",
+  "alt_names": [
+    "Kakatiyas of Warangal"
+  ],
+  "period": {
+    "start": 1083,
+    "end": 1323,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Telangana, coastal Andhra",
+  "capitals": [
+    "Anumakonda",
+    "Warangal (Orugallu)"
+  ],
+  "rulers": [
+    {
+      "name": "Prola I",
+      "reign_start": 1083,
+      "reign_end": 1116,
+      "notes": ""
+    },
+    {
+      "name": "Prola II",
+      "reign_start": 1116,
+      "reign_end": 1158,
+      "notes": "Asserted independence from Western Chalukyas"
+    },
+    {
+      "name": "Rudra",
+      "reign_start": 1158,
+      "reign_end": 1195,
+      "notes": "Moved capital to Warangal"
+    },
+    {
+      "name": "Ganapati Deva",
+      "reign_start": 1199,
+      "reign_end": 1262,
+      "notes": "Greatest Kakatiya; long reign"
+    },
+    {
+      "name": "Rudrama Devi",
+      "reign_start": 1262,
+      "reign_end": 1289,
+      "notes": "One of few queens regnant in Indian history; praised by Marco Polo"
+    },
+    {
+      "name": "Prataparudra II",
+      "reign_start": 1289,
+      "reign_end": 1323,
+      "notes": "Last; captured by Tughlaq forces"
+    }
+  ],
+  "religion": "Hinduism (Shaiva)",
+  "predecessor": "chalukya-kalyani",
+  "successor": "tughlaq",
+  "notable_achievements": [
+    "Warangal Fort and Thousand Pillar Temple",
+    "Rudrama Devi — one of India's few sovereign queens"
+  ],
+  "notes": ""
+}

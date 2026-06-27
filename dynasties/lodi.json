@@ -1,0 +1,46 @@
+{
+  "slug": "lodi",
+  "name": "Lodi Dynasty",
+  "alt_names": [
+    "Lodhi"
+  ],
+  "period": {
+    "start": 1451,
+    "end": 1526,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern India",
+  "capitals": [
+    "Delhi",
+    "Agra"
+  ],
+  "rulers": [
+    {
+      "name": "Bahlul Lodi",
+      "reign_start": 1451,
+      "reign_end": 1489,
+      "notes": "Founder; Afghan"
+    },
+    {
+      "name": "Sikandar Lodi",
+      "reign_start": 1489,
+      "reign_end": 1517,
+      "notes": "Founded Agra"
+    },
+    {
+      "name": "Ibrahim Lodi",
+      "reign_start": 1517,
+      "reign_end": 1526,
+      "notes": "Last; killed at First Battle of Panipat by Babur"
+    }
+  ],
+  "religion": "Islam (Sunni)",
+  "predecessor": "sayyid",
+  "successor": "mughal",
+  "notable_achievements": [
+    "First Afghan dynasty in India",
+    "Foundation of Agra"
+  ],
+  "notes": ""
+}

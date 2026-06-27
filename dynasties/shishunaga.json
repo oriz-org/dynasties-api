@@ -1,0 +1,46 @@
+{
+  "slug": "shishunaga",
+  "name": "Shishunaga Dynasty",
+  "alt_names": [
+    "Shaishunaga"
+  ],
+  "period": {
+    "start": -413,
+    "end": -345,
+    "start_era": "BCE",
+    "end_era": "BCE"
+  },
+  "region": "Magadha (modern Bihar)",
+  "capitals": [
+    "Pataliputra",
+    "Vaishali"
+  ],
+  "rulers": [
+    {
+      "name": "Shishunaga",
+      "reign_start": -413,
+      "reign_end": -395,
+      "notes": "Founder"
+    },
+    {
+      "name": "Kalashoka",
+      "reign_start": -395,
+      "reign_end": -367,
+      "notes": "Held the Second Buddhist Council"
+    },
+    {
+      "name": "Mahanandin",
+      "reign_start": -367,
+      "reign_end": -345,
+      "notes": "Last ruler; overthrown by Mahapadma Nanda"
+    }
+  ],
+  "religion": "Hinduism, Buddhism",
+  "predecessor": "haryanka",
+  "successor": "nanda",
+  "notable_achievements": [
+    "Destroyed Avanti rival kingdom",
+    "Hosted Second Buddhist Council"
+  ],
+  "notes": "Dates per Buddhist chronology; ruler list may be incomplete between Kalashoka and Mahanandin."
+}

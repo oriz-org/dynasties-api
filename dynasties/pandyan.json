@@ -1,0 +1,52 @@
+{
+  "slug": "pandyan",
+  "name": "Pandyan Dynasty (Later)",
+  "alt_names": [
+    "Imperial Pandyas",
+    "Later Pandyas"
+  ],
+  "period": {
+    "start": 1216,
+    "end": 1345,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "South Tamil Nadu",
+  "capitals": [
+    "Madurai"
+  ],
+  "rulers": [
+    {
+      "name": "Maravarman Sundara Pandyan I",
+      "reign_start": 1216,
+      "reign_end": 1238,
+      "notes": "Re-established Pandyan sovereignty after Chola dominance"
+    },
+    {
+      "name": "Jatavarman Sundara Pandyan I",
+      "reign_start": 1251,
+      "reign_end": 1268,
+      "notes": "Imperial peak; conquered Cholas"
+    },
+    {
+      "name": "Maravarman Kulasekara Pandyan I",
+      "reign_start": 1268,
+      "reign_end": 1308,
+      "notes": "Marco Polo visited; succession war led to Khalji invasion"
+    },
+    {
+      "name": "Sundara Pandya IV",
+      "reign_start": 1309,
+      "reign_end": 1345,
+      "notes": "Last major Pandyan"
+    }
+  ],
+  "religion": "Hinduism (Shaiva, Vaishnava); Jainism, Buddhism patronised in earlier periods",
+  "predecessor": "chola",
+  "successor": "vijayanagara",
+  "notable_achievements": [
+    "Brief imperial revival in south India between Cholas and Vijayanagara",
+    "Madurai temple expansion"
+  ],
+  "notes": "The Pandyan name covers multiple non-contiguous dynasties from Sangam era (3rd c. BCE) onwards; this record covers the later imperial phase."
+}

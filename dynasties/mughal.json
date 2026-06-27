@@ -1,0 +1,98 @@
+{
+  "slug": "mughal",
+  "name": "Mughal Empire",
+  "alt_names": [
+    "Mogul Empire",
+    "Gurkani"
+  ],
+  "period": {
+    "start": 1526,
+    "end": 1857,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Most of the Indian subcontinent (peak under Aurangzeb)",
+  "capitals": [
+    "Agra",
+    "Fatehpur Sikri",
+    "Delhi (Shahjahanabad)"
+  ],
+  "rulers": [
+    {
+      "name": "Babur",
+      "reign_start": 1526,
+      "reign_end": 1530,
+      "notes": "Founder; victory at Panipat"
+    },
+    {
+      "name": "Humayun",
+      "reign_start": 1530,
+      "reign_end": 1540,
+      "notes": "First reign; lost to Sher Shah Suri"
+    },
+    {
+      "name": "Humayun",
+      "reign_start": 1555,
+      "reign_end": 1556,
+      "notes": "Second reign; restored"
+    },
+    {
+      "name": "Akbar",
+      "reign_start": 1556,
+      "reign_end": 1605,
+      "notes": "Greatest Mughal; Din-i-Ilahi; consolidated empire"
+    },
+    {
+      "name": "Jahangir",
+      "reign_start": 1605,
+      "reign_end": 1627,
+      "notes": "Patron of Mughal painting"
+    },
+    {
+      "name": "Shah Jahan",
+      "reign_start": 1628,
+      "reign_end": 1658,
+      "notes": "Architectural peak; Taj Mahal, Red Fort"
+    },
+    {
+      "name": "Aurangzeb (Alamgir)",
+      "reign_start": 1658,
+      "reign_end": 1707,
+      "notes": "Maximum extent; Deccan wars exhausted empire"
+    },
+    {
+      "name": "Bahadur Shah I",
+      "reign_start": 1707,
+      "reign_end": 1712,
+      "notes": ""
+    },
+    {
+      "name": "Muhammad Shah",
+      "reign_start": 1719,
+      "reign_end": 1748,
+      "notes": "Nadir Shah sacked Delhi 1739"
+    },
+    {
+      "name": "Shah Alam II",
+      "reign_start": 1759,
+      "reign_end": 1806,
+      "notes": "Battle of Buxar; British protectorate from 1765"
+    },
+    {
+      "name": "Bahadur Shah II (Zafar)",
+      "reign_start": 1837,
+      "reign_end": 1857,
+      "notes": "Last Mughal; exiled by British after 1857 revolt"
+    }
+  ],
+  "religion": "Islam (Sunni); Akbar's syncretism; Aurangzeb orthodox",
+  "predecessor": "lodi",
+  "successor": "british-raj",
+  "notable_achievements": [
+    "Taj Mahal, Red Fort, Fatehpur Sikri (UNESCO)",
+    "Persian as administrative language",
+    "Mughal miniature painting",
+    "Akbar's policy of sulh-i-kul"
+  ],
+  "notes": "Partial ruler list — 19 emperors total. Imperial power effectively ended after Aurangzeb (1707); successors increasingly nominal."
+}

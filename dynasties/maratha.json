@@ -1,0 +1,79 @@
+{
+  "slug": "maratha",
+  "name": "Maratha Empire",
+  "alt_names": [
+    "Maratha Confederacy",
+    "Bhonsle Dynasty"
+  ],
+  "period": {
+    "start": 1674,
+    "end": 1818,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Most of subcontinent (peak); from Attock to Tanjore",
+  "capitals": [
+    "Raigad",
+    "Satara",
+    "Pune (Peshwa)"
+  ],
+  "rulers": [
+    {
+      "name": "Chhatrapati Shivaji",
+      "reign_start": 1674,
+      "reign_end": 1680,
+      "notes": "Founder; crowned at Raigad"
+    },
+    {
+      "name": "Sambhaji",
+      "reign_start": 1681,
+      "reign_end": 1689,
+      "notes": "Tortured to death by Aurangzeb"
+    },
+    {
+      "name": "Rajaram",
+      "reign_start": 1689,
+      "reign_end": 1700,
+      "notes": ""
+    },
+    {
+      "name": "Tarabai (regent)",
+      "reign_start": 1700,
+      "reign_end": 1708,
+      "notes": "Regent for son Shivaji II"
+    },
+    {
+      "name": "Shahu I",
+      "reign_start": 1708,
+      "reign_end": 1749,
+      "notes": "Peshwa office became hereditary under him"
+    },
+    {
+      "name": "Ramaraja",
+      "reign_start": 1749,
+      "reign_end": 1777,
+      "notes": "Nominal; real power with Peshwas at Pune"
+    },
+    {
+      "name": "Shahu II",
+      "reign_start": 1777,
+      "reign_end": 1808,
+      "notes": ""
+    },
+    {
+      "name": "Pratapsinh",
+      "reign_start": 1808,
+      "reign_end": 1818,
+      "notes": "Last sovereign Chhatrapati; deposed by British after Third Anglo-Maratha War"
+    }
+  ],
+  "religion": "Hinduism",
+  "predecessor": "mughal",
+  "successor": "british-raj",
+  "notable_achievements": [
+    "Successfully resisted and then supplanted Mughal power across most of India",
+    "Naval strength under Kanhoji Angre",
+    "Confederation of Peshwa-Scindia-Gaikwad-Holkar-Bhonsle"
+  ],
+  "notes": "After Shahu I, real power passed to the Peshwas (Bajirao I, Balaji Bajirao, etc.). Third Battle of Panipat (1761) was a major setback. Confederation broke up in three Anglo-Maratha Wars (1775-1818)."
+}

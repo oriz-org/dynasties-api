@@ -1,0 +1,50 @@
+{
+  "slug": "kanva",
+  "name": "Kanva Dynasty",
+  "alt_names": [
+    "Kanvayana"
+  ],
+  "period": {
+    "start": -73,
+    "end": -28,
+    "start_era": "BCE",
+    "end_era": "BCE"
+  },
+  "region": "Magadha",
+  "capitals": [
+    "Pataliputra"
+  ],
+  "rulers": [
+    {
+      "name": "Vasudeva Kanva",
+      "reign_start": -73,
+      "reign_end": -64,
+      "notes": "Founder; killed Devabhuti Shunga"
+    },
+    {
+      "name": "Bhumimitra",
+      "reign_start": -64,
+      "reign_end": -50,
+      "notes": ""
+    },
+    {
+      "name": "Narayana",
+      "reign_start": -50,
+      "reign_end": -38,
+      "notes": ""
+    },
+    {
+      "name": "Susharman",
+      "reign_start": -38,
+      "reign_end": -28,
+      "notes": "Last; overthrown by Satavahanas per Puranas"
+    }
+  ],
+  "religion": "Hinduism",
+  "predecessor": "shunga",
+  "successor": "satavahana",
+  "notable_achievements": [
+    "Brief Brahmin dynasty bridging Shunga and Satavahana periods"
+  ],
+  "notes": "Sparse epigraphic record; dates per Puranic king-lists."
+}

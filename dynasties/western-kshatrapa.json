@@ -1,0 +1,59 @@
+{
+  "slug": "western-kshatrapa",
+  "name": "Western Kshatrapas",
+  "alt_names": [
+    "Western Satraps",
+    "Kshaharatas / Kardamakas"
+  ],
+  "period": {
+    "start": 35,
+    "end": 415,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Western India (Gujarat, Malwa, Rajasthan)",
+  "capitals": [
+    "Ujjain",
+    "Junagadh"
+  ],
+  "rulers": [
+    {
+      "name": "Bhumaka",
+      "reign_start": 35,
+      "reign_end": 78,
+      "notes": "Kshaharata branch"
+    },
+    {
+      "name": "Nahapana",
+      "reign_start": 78,
+      "reign_end": 119,
+      "notes": "Issued silver coins; defeated by Gautamiputra Satakarni"
+    },
+    {
+      "name": "Chashtana",
+      "reign_start": 78,
+      "reign_end": 130,
+      "notes": "Founded Kardamaka branch at Ujjain"
+    },
+    {
+      "name": "Rudradaman I",
+      "reign_start": 130,
+      "reign_end": 150,
+      "notes": "Junagadh rock inscription; first long Sanskrit prashasti"
+    },
+    {
+      "name": "Rudrasimha III",
+      "reign_start": 388,
+      "reign_end": 415,
+      "notes": "Last; killed by Chandragupta II of Gupta dynasty"
+    }
+  ],
+  "religion": "Hinduism, Buddhism",
+  "predecessor": null,
+  "successor": "gupta",
+  "notable_achievements": [
+    "Earliest long Sanskrit inscription (Junagadh, 150 CE)",
+    "Long-running silver coinage"
+  ],
+  "notes": "Partial ruler list; over two dozen Kshatrapas known. Two parallel branches (Kshaharata then Kardamaka)."
+}

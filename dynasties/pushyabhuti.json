@@ -1,0 +1,53 @@
+{
+  "slug": "pushyabhuti",
+  "name": "Pushyabhuti Dynasty",
+  "alt_names": [
+    "Vardhana Dynasty",
+    "Harsha's Empire"
+  ],
+  "period": {
+    "start": 500,
+    "end": 647,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern India",
+  "capitals": [
+    "Thanesar",
+    "Kannauj"
+  ],
+  "rulers": [
+    {
+      "name": "Pushyabhuti",
+      "reign_start": 500,
+      "reign_end": 525,
+      "notes": "Eponymous founder; semi-legendary"
+    },
+    {
+      "name": "Prabhakaravardhana",
+      "reign_start": 580,
+      "reign_end": 605,
+      "notes": ""
+    },
+    {
+      "name": "Rajyavardhana",
+      "reign_start": 605,
+      "reign_end": 606,
+      "notes": "Killed by Shashanka of Gauda"
+    },
+    {
+      "name": "Harshavardhana",
+      "reign_start": 606,
+      "reign_end": 647,
+      "notes": "Unified north India; patron of Xuanzang and Bana"
+    }
+  ],
+  "religion": "Hinduism, Buddhism (Harsha increasingly Buddhist)",
+  "predecessor": "gupta",
+  "successor": null,
+  "notable_achievements": [
+    "Last great empire of northern India before the Turkic conquest",
+    "Patronage of Bana's Harshacharita and Xuanzang's visit"
+  ],
+  "notes": ""
+}

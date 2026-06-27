@@ -1,0 +1,64 @@
+{
+  "slug": "sena",
+  "name": "Sena Dynasty",
+  "alt_names": [
+    "Senas of Bengal"
+  ],
+  "period": {
+    "start": 1070,
+    "end": 1230,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Bengal",
+  "capitals": [
+    "Nabadwip",
+    "Lakhnauti"
+  ],
+  "rulers": [
+    {
+      "name": "Hemanta Sena",
+      "reign_start": 1070,
+      "reign_end": 1096,
+      "notes": "Founder"
+    },
+    {
+      "name": "Vijaya Sena",
+      "reign_start": 1096,
+      "reign_end": 1159,
+      "notes": "Established Sena power"
+    },
+    {
+      "name": "Ballala Sena",
+      "reign_start": 1159,
+      "reign_end": 1179,
+      "notes": "Codified kulinism; author of Danasagara"
+    },
+    {
+      "name": "Lakshmana Sena",
+      "reign_start": 1179,
+      "reign_end": 1206,
+      "notes": "Patron of Jayadeva; fled Bakhtiyar Khilji 1204"
+    },
+    {
+      "name": "Vishvarupa Sena",
+      "reign_start": 1206,
+      "reign_end": 1225,
+      "notes": ""
+    },
+    {
+      "name": "Keshava Sena",
+      "reign_start": 1225,
+      "reign_end": 1230,
+      "notes": "Last"
+    }
+  ],
+  "religion": "Hinduism (Brahmanical revival)",
+  "predecessor": "pala",
+  "successor": null,
+  "notable_achievements": [
+    "Patronage of Jayadeva (Gita Govinda)",
+    "Codification of Bengali social structure"
+  ],
+  "notes": ""
+}

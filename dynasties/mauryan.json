@@ -1,0 +1,82 @@
+{
+  "slug": "mauryan",
+  "name": "Mauryan Empire",
+  "alt_names": [
+    "Maurya Dynasty"
+  ],
+  "period": {
+    "start": -322,
+    "end": -185,
+    "start_era": "BCE",
+    "end_era": "BCE"
+  },
+  "region": "South Asia (most of subcontinent)",
+  "capitals": [
+    "Pataliputra"
+  ],
+  "rulers": [
+    {
+      "name": "Chandragupta Maurya",
+      "reign_start": -322,
+      "reign_end": -298,
+      "notes": "Founder; tutored by Chanakya/Kautilya"
+    },
+    {
+      "name": "Bindusara",
+      "reign_start": -297,
+      "reign_end": -273,
+      "notes": ""
+    },
+    {
+      "name": "Ashoka the Great",
+      "reign_start": -268,
+      "reign_end": -232,
+      "notes": "Embraced Buddhism after Kalinga War; dhamma edicts"
+    },
+    {
+      "name": "Dasharatha",
+      "reign_start": -232,
+      "reign_end": -224,
+      "notes": ""
+    },
+    {
+      "name": "Samprati",
+      "reign_start": -224,
+      "reign_end": -215,
+      "notes": "Patron of Jainism"
+    },
+    {
+      "name": "Shalishuka",
+      "reign_start": -215,
+      "reign_end": -202,
+      "notes": ""
+    },
+    {
+      "name": "Devavarman",
+      "reign_start": -202,
+      "reign_end": -195,
+      "notes": ""
+    },
+    {
+      "name": "Shatadhanvan",
+      "reign_start": -195,
+      "reign_end": -187,
+      "notes": ""
+    },
+    {
+      "name": "Brihadratha",
+      "reign_start": -187,
+      "reign_end": -185,
+      "notes": "Last Maurya; assassinated by Pushyamitra Shunga"
+    }
+  ],
+  "religion": "Hinduism, Buddhism, Jainism (pluralistic; Ashoka patronised Buddhism)",
+  "predecessor": "nanda",
+  "successor": "shunga",
+  "notable_achievements": [
+    "First pan-Indian empire",
+    "Ashoka's rock and pillar edicts",
+    "Spread of Buddhism to Sri Lanka and Central Asia"
+  ],
+  "notes": ""
+}

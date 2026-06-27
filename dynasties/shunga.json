@@ -1,0 +1,89 @@
+{
+  "slug": "shunga",
+  "name": "Shunga Dynasty",
+  "alt_names": [
+    "Sunga"
+  ],
+  "period": {
+    "start": -185,
+    "end": -73,
+    "start_era": "BCE",
+    "end_era": "BCE"
+  },
+  "region": "North-central India",
+  "capitals": [
+    "Pataliputra",
+    "Vidisha"
+  ],
+  "rulers": [
+    {
+      "name": "Pushyamitra Shunga",
+      "reign_start": -185,
+      "reign_end": -149,
+      "notes": "Founder; revived Brahmanical sacrifice"
+    },
+    {
+      "name": "Agnimitra",
+      "reign_start": -149,
+      "reign_end": -141,
+      "notes": "Hero of Kalidasa play Malavikagnimitram"
+    },
+    {
+      "name": "Vasujyeshtha",
+      "reign_start": -141,
+      "reign_end": -131,
+      "notes": ""
+    },
+    {
+      "name": "Vasumitra",
+      "reign_start": -131,
+      "reign_end": -124,
+      "notes": ""
+    },
+    {
+      "name": "Bhadraka",
+      "reign_start": -124,
+      "reign_end": -122,
+      "notes": ""
+    },
+    {
+      "name": "Pulindaka",
+      "reign_start": -122,
+      "reign_end": -119,
+      "notes": ""
+    },
+    {
+      "name": "Ghosha",
+      "reign_start": -119,
+      "reign_end": -108,
+      "notes": ""
+    },
+    {
+      "name": "Vajramitra",
+      "reign_start": -108,
+      "reign_end": -94,
+      "notes": ""
+    },
+    {
+      "name": "Bhagabhadra",
+      "reign_start": -94,
+      "reign_end": -83,
+      "notes": "Hosted Heliodorus, Indo-Greek envoy"
+    },
+    {
+      "name": "Devabhuti",
+      "reign_start": -83,
+      "reign_end": -73,
+      "notes": "Last Shunga; killed by Vasudeva Kanva"
+    }
+  ],
+  "religion": "Hinduism (Brahmanical revival)",
+  "predecessor": "mauryan",
+  "successor": "kanva",
+  "notable_achievements": [
+    "Stupa at Bharhut",
+    "Revival of Sanskrit and Brahmanical ritual",
+    "Patanjali wrote Mahabhashya"
+  ],
+  "notes": ""
+}

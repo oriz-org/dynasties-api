@@ -1,0 +1,64 @@
+{
+  "slug": "haryanka",
+  "name": "Haryanka Dynasty",
+  "alt_names": [
+    "Haryanka"
+  ],
+  "period": {
+    "start": -544,
+    "end": -413,
+    "start_era": "BCE",
+    "end_era": "BCE"
+  },
+  "region": "Magadha (modern Bihar)",
+  "capitals": [
+    "Rajgir",
+    "Pataliputra"
+  ],
+  "rulers": [
+    {
+      "name": "Bimbisara",
+      "reign_start": -544,
+      "reign_end": -492,
+      "notes": "Contemporary of the Buddha; expanded Magadha"
+    },
+    {
+      "name": "Ajatashatru",
+      "reign_start": -492,
+      "reign_end": -460,
+      "notes": "Patricide; built first fort at Pataliputra"
+    },
+    {
+      "name": "Udayin",
+      "reign_start": -460,
+      "reign_end": -444,
+      "notes": "Moved capital to Pataliputra"
+    },
+    {
+      "name": "Anuruddha",
+      "reign_start": -444,
+      "reign_end": -440,
+      "notes": ""
+    },
+    {
+      "name": "Munda",
+      "reign_start": -440,
+      "reign_end": -437,
+      "notes": ""
+    },
+    {
+      "name": "Nagadasaka",
+      "reign_start": -437,
+      "reign_end": -413,
+      "notes": "Overthrown by Shishunaga"
+    }
+  ],
+  "religion": "Hinduism, Buddhism, Jainism (early patronage)",
+  "predecessor": null,
+  "successor": "shishunaga",
+  "notable_achievements": [
+    "Established Magadha as a major power",
+    "Founded Pataliputra"
+  ],
+  "notes": "Earliest historically attested dynasty of Magadha; dates approximate per traditional Buddhist chronology."
+}

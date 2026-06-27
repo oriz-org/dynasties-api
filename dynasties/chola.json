@@ -1,0 +1,97 @@
+{
+  "slug": "chola",
+  "name": "Chola Dynasty (Imperial)",
+  "alt_names": [
+    "Imperial Cholas",
+    "Later Cholas"
+  ],
+  "period": {
+    "start": 848,
+    "end": 1279,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "South India (Tamil Nadu, Sri Lanka, SE Asian coast)",
+  "capitals": [
+    "Thanjavur",
+    "Gangaikondacholapuram"
+  ],
+  "rulers": [
+    {
+      "name": "Vijayalaya",
+      "reign_start": 848,
+      "reign_end": 871,
+      "notes": "Founder of imperial Cholas; captured Thanjavur"
+    },
+    {
+      "name": "Aditya I",
+      "reign_start": 871,
+      "reign_end": 907,
+      "notes": "Defeated Pallavas"
+    },
+    {
+      "name": "Parantaka I",
+      "reign_start": 907,
+      "reign_end": 955,
+      "notes": "Conquered Pandya and Sri Lanka territory"
+    },
+    {
+      "name": "Rajaraja I",
+      "reign_start": 985,
+      "reign_end": 1014,
+      "notes": "Built Brihadishvara Temple; consolidated empire"
+    },
+    {
+      "name": "Rajendra I",
+      "reign_start": 1014,
+      "reign_end": 1044,
+      "notes": "Naval expedition to SE Asia (Srivijaya); marched to Ganga"
+    },
+    {
+      "name": "Rajadhiraja I",
+      "reign_start": 1044,
+      "reign_end": 1054,
+      "notes": ""
+    },
+    {
+      "name": "Rajendra II",
+      "reign_start": 1054,
+      "reign_end": 1063,
+      "notes": ""
+    },
+    {
+      "name": "Virarajendra",
+      "reign_start": 1063,
+      "reign_end": 1070,
+      "notes": ""
+    },
+    {
+      "name": "Kulothunga I",
+      "reign_start": 1070,
+      "reign_end": 1122,
+      "notes": "Merged Chalukya and Chola lines"
+    },
+    {
+      "name": "Kulothunga III",
+      "reign_start": 1178,
+      "reign_end": 1218,
+      "notes": "Last great Chola"
+    },
+    {
+      "name": "Rajendra III",
+      "reign_start": 1246,
+      "reign_end": 1279,
+      "notes": "Last Chola; overthrown by Pandyas"
+    }
+  ],
+  "religion": "Hinduism (Shaiva)",
+  "predecessor": "pallava",
+  "successor": "pandyan",
+  "notable_achievements": [
+    "Brihadishvara Temple (UNESCO)",
+    "Only Indian dynasty to invade SE Asia (Srivijaya, 1025)",
+    "Sophisticated village self-government documented in Uttaramerur inscription",
+    "Bronze sculpture (Nataraja)"
+  ],
+  "notes": ""
+}

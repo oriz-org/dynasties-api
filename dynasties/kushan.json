@@ -1,0 +1,91 @@
+{
+  "slug": "kushan",
+  "name": "Kushan Empire",
+  "alt_names": [
+    "Kushana",
+    "Yuezhi"
+  ],
+  "period": {
+    "start": 30,
+    "end": 375,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Central Asia, Afghanistan, north-west India to Varanasi",
+  "capitals": [
+    "Bagram (Kapisa)",
+    "Purushapura (Peshawar)",
+    "Mathura"
+  ],
+  "rulers": [
+    {
+      "name": "Kujula Kadphises",
+      "reign_start": 30,
+      "reign_end": 80,
+      "notes": "Founder; united Yuezhi tribes"
+    },
+    {
+      "name": "Vima Takto",
+      "reign_start": 80,
+      "reign_end": 95,
+      "notes": ""
+    },
+    {
+      "name": "Vima Kadphises",
+      "reign_start": 95,
+      "reign_end": 127,
+      "notes": "Issued gold coins"
+    },
+    {
+      "name": "Kanishka I",
+      "reign_start": 127,
+      "reign_end": 150,
+      "notes": "Greatest ruler; patron of Mahayana Buddhism; Fourth Buddhist Council"
+    },
+    {
+      "name": "Huvishka",
+      "reign_start": 150,
+      "reign_end": 190,
+      "notes": ""
+    },
+    {
+      "name": "Vasudeva I",
+      "reign_start": 190,
+      "reign_end": 230,
+      "notes": ""
+    },
+    {
+      "name": "Kanishka II",
+      "reign_start": 230,
+      "reign_end": 247,
+      "notes": ""
+    },
+    {
+      "name": "Vashishka",
+      "reign_start": 247,
+      "reign_end": 267,
+      "notes": ""
+    },
+    {
+      "name": "Kanishka III",
+      "reign_start": 267,
+      "reign_end": 270,
+      "notes": ""
+    },
+    {
+      "name": "Vasudeva II",
+      "reign_start": 270,
+      "reign_end": 310,
+      "notes": ""
+    }
+  ],
+  "religion": "Buddhism, Hinduism, Zoroastrianism, Hellenistic cults (syncretic)",
+  "predecessor": null,
+  "successor": "gupta",
+  "notable_achievements": [
+    "Gandhara art",
+    "Spread of Mahayana Buddhism to Central Asia and China",
+    "Trans-Eurasian Silk Road trade"
+  ],
+  "notes": "Kanishka era start contested; the date 127 CE is the current scholarly consensus (Falk 2001)."
+}

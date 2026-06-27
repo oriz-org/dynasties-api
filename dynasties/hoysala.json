@@ -1,0 +1,58 @@
+{
+  "slug": "hoysala",
+  "name": "Hoysala Dynasty",
+  "alt_names": [
+    "Hoysalas"
+  ],
+  "period": {
+    "start": 1026,
+    "end": 1343,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Karnataka",
+  "capitals": [
+    "Belur",
+    "Halebidu"
+  ],
+  "rulers": [
+    {
+      "name": "Nripa Kama II",
+      "reign_start": 1026,
+      "reign_end": 1047,
+      "notes": "Founder"
+    },
+    {
+      "name": "Vinayaditya",
+      "reign_start": 1047,
+      "reign_end": 1098,
+      "notes": ""
+    },
+    {
+      "name": "Bittideva (Vishnuvardhana)",
+      "reign_start": 1108,
+      "reign_end": 1152,
+      "notes": "Convert from Jainism to Vaishnavism (Ramanuja); built Chennakeshava at Belur"
+    },
+    {
+      "name": "Veera Ballala II",
+      "reign_start": 1173,
+      "reign_end": 1220,
+      "notes": "Asserted full sovereignty; defeated Yadavas and Cholas"
+    },
+    {
+      "name": "Veera Ballala III",
+      "reign_start": 1292,
+      "reign_end": 1343,
+      "notes": "Last; killed fighting Madurai Sultanate"
+    }
+  ],
+  "religion": "Hinduism (Jainism early; later Vaishnava under Ramanuja)",
+  "predecessor": "chalukya-kalyani",
+  "successor": "vijayanagara",
+  "notable_achievements": [
+    "Hoysala temples at Belur, Halebidu, Somanathapura (UNESCO)",
+    "Patronage of Kannada literature (Janna, Harihara, Raghavanka)"
+  ],
+  "notes": "Partial ruler list; major rulers only."
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "ahom",
+  "name": "Ahom Dynasty",
+  "alt_names": [
+    "Ahom Kingdom"
+  ],
+  "period": {
+    "start": 1228,
+    "end": 1826,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Assam (upper Brahmaputra valley)",
+  "capitals": [
+    "Charaideo",
+    "Garhgaon",
+    "Rangpur",
+    "Jorhat"
+  ],
+  "rulers": [
+    {
+      "name": "Sukaphaa",
+      "reign_start": 1228,
+      "reign_end": 1268,
+      "notes": "Founder; migrated from Yunnan (Tai)"
+    },
+    {
+      "name": "Suhungmung",
+      "reign_start": 1497,
+      "reign_end": 1539,
+      "notes": "Adopted Hindu name Swarganarayan; expanded kingdom"
+    },
+    {
+      "name": "Pratap Singha",
+      "reign_start": 1603,
+      "reign_end": 1641,
+      "notes": "Stabilised against Mughal pressure"
+    },
+    {
+      "name": "Lachit Borphukan (general)",
+      "reign_start": 1671,
+      "reign_end": 1671,
+      "notes": "Naval victory at Saraighat — repelled Mughals (not a king)"
+    },
+    {
+      "name": "Rudra Singha",
+      "reign_start": 1696,
+      "reign_end": 1714,
+      "notes": "Greatest Ahom; cultural renaissance"
+    },
+    {
+      "name": "Purandar Singha",
+      "reign_start": 1818,
+      "reign_end": 1826,
+      "notes": "Last; Yandabo treaty ceded Assam to British"
+    }
+  ],
+  "religion": "Tai animism initially; Hinduism (Shaiva, Vaishnava) from 16th c.",
+  "predecessor": null,
+  "successor": "british-raj",
+  "notable_achievements": [
+    "Successfully resisted Mughal expansion for centuries (notably Battle of Saraighat 1671)",
+    "~600-year continuous dynasty — among longest in world history",
+    "Ahom Buranjis (historical chronicles)"
+  ],
+  "notes": "Partial ruler list; ~40 Ahom kings in total."
+}

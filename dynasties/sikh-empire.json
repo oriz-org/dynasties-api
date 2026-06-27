@@ -1,0 +1,58 @@
+{
+  "slug": "sikh-empire",
+  "name": "Sikh Empire",
+  "alt_names": [
+    "Sarkar-i-Khalsa"
+  ],
+  "period": {
+    "start": 1799,
+    "end": 1849,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Punjab, Kashmir, Khyber, parts of Tibet",
+  "capitals": [
+    "Lahore"
+  ],
+  "rulers": [
+    {
+      "name": "Maharaja Ranjit Singh",
+      "reign_start": 1799,
+      "reign_end": 1839,
+      "notes": "Founder; unified Sikh misls; modernised army with European officers"
+    },
+    {
+      "name": "Kharak Singh",
+      "reign_start": 1839,
+      "reign_end": 1840,
+      "notes": ""
+    },
+    {
+      "name": "Nau Nihal Singh",
+      "reign_start": 1840,
+      "reign_end": 1840,
+      "notes": ""
+    },
+    {
+      "name": "Sher Singh",
+      "reign_start": 1841,
+      "reign_end": 1843,
+      "notes": ""
+    },
+    {
+      "name": "Duleep Singh",
+      "reign_start": 1843,
+      "reign_end": 1849,
+      "notes": "Last; annexed by British after Second Anglo-Sikh War"
+    }
+  ],
+  "religion": "Sikhism (official); religious pluralism in practice",
+  "predecessor": null,
+  "successor": "british-raj",
+  "notable_achievements": [
+    "Only Indian power to push Khyber boundary west of Indus",
+    "Modernised army (Khalsa Fauj) under European generals (Allard, Ventura)",
+    "Last independent Indian polity before British annexation of Punjab"
+  ],
+  "notes": ""
+}

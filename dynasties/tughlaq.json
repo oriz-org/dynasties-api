@@ -1,0 +1,76 @@
+{
+  "slug": "tughlaq",
+  "name": "Tughlaq Dynasty",
+  "alt_names": [
+    "Tughluq"
+  ],
+  "period": {
+    "start": 1320,
+    "end": 1414,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern India and Deccan (briefly)",
+  "capitals": [
+    "Delhi",
+    "Daulatabad (briefly)"
+  ],
+  "rulers": [
+    {
+      "name": "Ghiyas-ud-din Tughlaq",
+      "reign_start": 1320,
+      "reign_end": 1325,
+      "notes": "Founder"
+    },
+    {
+      "name": "Muhammad bin Tughlaq",
+      "reign_start": 1325,
+      "reign_end": 1351,
+      "notes": "Capital shift to Daulatabad; token currency; ambitious failures"
+    },
+    {
+      "name": "Firuz Shah Tughlaq",
+      "reign_start": 1351,
+      "reign_end": 1388,
+      "notes": "Built canals; restored monuments"
+    },
+    {
+      "name": "Tughlaq Shah II",
+      "reign_start": 1388,
+      "reign_end": 1389,
+      "notes": ""
+    },
+    {
+      "name": "Abu Bakr Shah",
+      "reign_start": 1389,
+      "reign_end": 1390,
+      "notes": ""
+    },
+    {
+      "name": "Nasir-ud-din Muhammad Shah III",
+      "reign_start": 1390,
+      "reign_end": 1394,
+      "notes": ""
+    },
+    {
+      "name": "Mahmud Tughlaq",
+      "reign_start": 1394,
+      "reign_end": 1413,
+      "notes": "Sultanate sacked by Timur 1398"
+    },
+    {
+      "name": "Daulat Khan Lodi",
+      "reign_start": 1413,
+      "reign_end": 1414,
+      "notes": "Last; nominal"
+    }
+  ],
+  "religion": "Islam (Sunni)",
+  "predecessor": "khalji",
+  "successor": "sayyid",
+  "notable_achievements": [
+    "Maximum geographic extent of any Delhi Sultanate dynasty (briefly)",
+    "Token currency experiment by Muhammad bin Tughlaq"
+  ],
+  "notes": "Timur's sack of Delhi in 1398 effectively broke Tughlaq power."
+}

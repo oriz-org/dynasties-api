@@ -1,0 +1,71 @@
+{
+  "slug": "mysore",
+  "name": "Kingdom of Mysore (Wadiyar & Sultanate)",
+  "alt_names": [
+    "Wadiyar Dynasty",
+    "Sultanate of Mysore"
+  ],
+  "period": {
+    "start": 1399,
+    "end": 1947,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Southern Karnataka",
+  "capitals": [
+    "Mysore",
+    "Srirangapatna"
+  ],
+  "rulers": [
+    {
+      "name": "Yaduraya Wadiyar",
+      "reign_start": 1399,
+      "reign_end": 1423,
+      "notes": "Founder of Wadiyar line; Vijayanagara feudatory"
+    },
+    {
+      "name": "Raja Wadiyar I",
+      "reign_start": 1578,
+      "reign_end": 1617,
+      "notes": "Independent from Vijayanagara after Talikota"
+    },
+    {
+      "name": "Chikka Devaraja Wadiyar",
+      "reign_start": 1673,
+      "reign_end": 1704,
+      "notes": "Resisted Mughal expansion"
+    },
+    {
+      "name": "Hyder Ali",
+      "reign_start": 1761,
+      "reign_end": 1782,
+      "notes": "De facto ruler; usurper; First and Second Anglo-Mysore Wars"
+    },
+    {
+      "name": "Tipu Sultan",
+      "reign_start": 1782,
+      "reign_end": 1799,
+      "notes": "Killed at fall of Srirangapatna; pioneered war rockets"
+    },
+    {
+      "name": "Krishnaraja Wadiyar III",
+      "reign_start": 1799,
+      "reign_end": 1868,
+      "notes": "British restored Wadiyar line as princely state"
+    },
+    {
+      "name": "Jayachamarajendra Wadiyar",
+      "reign_start": 1940,
+      "reign_end": 1950,
+      "notes": "Last; acceded to Indian Union 1947"
+    }
+  ],
+  "religion": "Hinduism (Wadiyars); Islam (Hyder Ali / Tipu)",
+  "predecessor": "vijayanagara",
+  "successor": null,
+  "notable_achievements": [
+    "Tipu Sultan's war rockets (precursor to modern artillery rockets)",
+    "Long Wadiyar continuity from Vijayanagara feudatory to Indian Republic"
+  ],
+  "notes": "Partial ruler list across 25+ Wadiyars plus the Sultanate interregnum. Princely state status 1799–1947."
+}

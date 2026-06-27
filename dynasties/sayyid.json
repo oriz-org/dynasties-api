@@ -1,0 +1,50 @@
+{
+  "slug": "sayyid",
+  "name": "Sayyid Dynasty",
+  "alt_names": [
+    "Sayyids of Delhi"
+  ],
+  "period": {
+    "start": 1414,
+    "end": 1451,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Region around Delhi",
+  "capitals": [
+    "Delhi"
+  ],
+  "rulers": [
+    {
+      "name": "Khizr Khan",
+      "reign_start": 1414,
+      "reign_end": 1421,
+      "notes": "Founder; nominal vassal of Timurids"
+    },
+    {
+      "name": "Mubarak Shah",
+      "reign_start": 1421,
+      "reign_end": 1434,
+      "notes": ""
+    },
+    {
+      "name": "Muhammad Shah",
+      "reign_start": 1434,
+      "reign_end": 1445,
+      "notes": ""
+    },
+    {
+      "name": "Alam Shah",
+      "reign_start": 1445,
+      "reign_end": 1451,
+      "notes": "Last; abdicated to Bahlul Lodi"
+    }
+  ],
+  "religion": "Islam (Sunni)",
+  "predecessor": "tughlaq",
+  "successor": "lodi",
+  "notable_achievements": [
+    "Held a much-diminished Delhi Sultanate together for 37 years"
+  ],
+  "notes": "Claimed descent from Prophet Muhammad; minor dynasty by territorial extent."
+}

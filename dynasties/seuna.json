@@ -1,0 +1,70 @@
+{
+  "slug": "seuna",
+  "name": "Seuna (Yadava) Dynasty",
+  "alt_names": [
+    "Yadavas of Devagiri",
+    "Seunas"
+  ],
+  "period": {
+    "start": 1187,
+    "end": 1317,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Maharashtra, northern Karnataka",
+  "capitals": [
+    "Devagiri (Daulatabad)"
+  ],
+  "rulers": [
+    {
+      "name": "Bhillama V",
+      "reign_start": 1187,
+      "reign_end": 1191,
+      "notes": "Founder of sovereign Yadava line; built Devagiri fort"
+    },
+    {
+      "name": "Jaitugi I",
+      "reign_start": 1191,
+      "reign_end": 1200,
+      "notes": ""
+    },
+    {
+      "name": "Singhana II",
+      "reign_start": 1200,
+      "reign_end": 1247,
+      "notes": "Greatest Yadava; patron of Sangita Ratnakara"
+    },
+    {
+      "name": "Krishna",
+      "reign_start": 1247,
+      "reign_end": 1261,
+      "notes": ""
+    },
+    {
+      "name": "Mahadeva",
+      "reign_start": 1261,
+      "reign_end": 1271,
+      "notes": ""
+    },
+    {
+      "name": "Ramachandra",
+      "reign_start": 1271,
+      "reign_end": 1311,
+      "notes": "Defeated by Alauddin Khalji 1296; vassal thereafter"
+    },
+    {
+      "name": "Shankaradeva",
+      "reign_start": 1311,
+      "reign_end": 1313,
+      "notes": "Last; killed by Malik Kafur"
+    }
+  ],
+  "religion": "Hinduism (Vaishnava); patronised Marathi literature",
+  "predecessor": "chalukya-kalyani",
+  "successor": "khalji",
+  "notable_achievements": [
+    "Patronage of Marathi (Jnaneshwar, Mukundaraja)",
+    "Sangita Ratnakara (foundational music treatise)"
+  ],
+  "notes": ""
+}

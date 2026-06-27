@@ -1,0 +1,78 @@
+{
+  "slug": "satavahana",
+  "name": "Satavahana Dynasty",
+  "alt_names": [
+    "Andhra Dynasty",
+    "Satakarni"
+  ],
+  "period": {
+    "start": -230,
+    "end": 220,
+    "start_era": "BCE",
+    "end_era": "CE"
+  },
+  "region": "Deccan (modern Maharashtra, Andhra, Telangana, Karnataka)",
+  "capitals": [
+    "Pratishthana (Paithan)",
+    "Amaravati"
+  ],
+  "rulers": [
+    {
+      "name": "Simuka",
+      "reign_start": -230,
+      "reign_end": -207,
+      "notes": "Founder"
+    },
+    {
+      "name": "Krishna",
+      "reign_start": -207,
+      "reign_end": -189,
+      "notes": ""
+    },
+    {
+      "name": "Satakarni I",
+      "reign_start": -180,
+      "reign_end": -124,
+      "notes": "Performed Ashvamedha"
+    },
+    {
+      "name": "Hala",
+      "reign_start": 20,
+      "reign_end": 24,
+      "notes": "Compiled Gatha Saptasati (Prakrit poetry)"
+    },
+    {
+      "name": "Gautamiputra Satakarni",
+      "reign_start": 78,
+      "reign_end": 102,
+      "notes": "Greatest ruler; defeated Western Kshatrapas"
+    },
+    {
+      "name": "Vasishthiputra Pulumavi",
+      "reign_start": 102,
+      "reign_end": 130,
+      "notes": ""
+    },
+    {
+      "name": "Yajna Sri Satakarni",
+      "reign_start": 174,
+      "reign_end": 203,
+      "notes": ""
+    },
+    {
+      "name": "Pulumavi IV",
+      "reign_start": 217,
+      "reign_end": 220,
+      "notes": "Last; dynasty fragmented after"
+    }
+  ],
+  "religion": "Hinduism, Buddhism (patronised both)",
+  "predecessor": null,
+  "successor": "vakataka",
+  "notable_achievements": [
+    "Patronage of Amaravati and Nagarjunakonda Buddhist sites",
+    "First Deccan dynasty to issue lead and silver coinage",
+    "Maritime trade with Rome"
+  ],
+  "notes": "Partial ruler list; ~30 kings known from Puranas, ~17 epigraphically attested."
+}

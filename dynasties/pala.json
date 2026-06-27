@@ -1,0 +1,65 @@
+{
+  "slug": "pala",
+  "name": "Pala Empire",
+  "alt_names": [
+    "Palas of Bengal"
+  ],
+  "period": {
+    "start": 750,
+    "end": 1161,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Bengal, Bihar, parts of Odisha and Assam",
+  "capitals": [
+    "Gauda",
+    "Vikramapura"
+  ],
+  "rulers": [
+    {
+      "name": "Gopala I",
+      "reign_start": 750,
+      "reign_end": 770,
+      "notes": "Founder; elected by chiefs"
+    },
+    {
+      "name": "Dharmapala",
+      "reign_start": 770,
+      "reign_end": 810,
+      "notes": "Founded Vikramashila; tripartite struggle for Kannauj"
+    },
+    {
+      "name": "Devapala",
+      "reign_start": 810,
+      "reign_end": 850,
+      "notes": "Greatest Pala; empire extended to Assam and Odisha"
+    },
+    {
+      "name": "Mahipala I",
+      "reign_start": 988,
+      "reign_end": 1038,
+      "notes": "Revived Pala fortunes"
+    },
+    {
+      "name": "Ramapala",
+      "reign_start": 1082,
+      "reign_end": 1124,
+      "notes": "Subject of Sandhyakar Nandi's Ramacharita"
+    },
+    {
+      "name": "Madanapala",
+      "reign_start": 1144,
+      "reign_end": 1161,
+      "notes": "Last major Pala"
+    }
+  ],
+  "religion": "Buddhism (Mahayana, Vajrayana); Hinduism tolerated",
+  "predecessor": null,
+  "successor": "sena",
+  "notable_achievements": [
+    "Last major royal patrons of Indian Buddhism",
+    "Founded Vikramashila and patronised Nalanda",
+    "Spread of Buddhism to Tibet (Atisha)"
+  ],
+  "notes": "Partial ruler list; ~18 Palas known."
+}

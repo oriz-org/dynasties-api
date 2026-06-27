@@ -1,0 +1,71 @@
+{
+  "slug": "chalukya-kalyani",
+  "name": "Western Chalukyas",
+  "alt_names": [
+    "Chalukyas of Kalyani",
+    "Later Chalukyas"
+  ],
+  "period": {
+    "start": 973,
+    "end": 1189,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Deccan (Karnataka, parts of Maharashtra and Andhra)",
+  "capitals": [
+    "Kalyani (Basavakalyan)"
+  ],
+  "rulers": [
+    {
+      "name": "Tailapa II",
+      "reign_start": 973,
+      "reign_end": 997,
+      "notes": "Founder; overthrew Rashtrakutas"
+    },
+    {
+      "name": "Satyashraya",
+      "reign_start": 997,
+      "reign_end": 1008,
+      "notes": ""
+    },
+    {
+      "name": "Jayasimha II",
+      "reign_start": 1015,
+      "reign_end": 1042,
+      "notes": ""
+    },
+    {
+      "name": "Someshvara I",
+      "reign_start": 1042,
+      "reign_end": 1068,
+      "notes": "Founded Kalyani"
+    },
+    {
+      "name": "Vikramaditya VI",
+      "reign_start": 1076,
+      "reign_end": 1126,
+      "notes": "Greatest ruler; subject of Bilhana's Vikramankadevacharita; founded Chalukya-Vikrama era"
+    },
+    {
+      "name": "Someshvara III",
+      "reign_start": 1126,
+      "reign_end": 1138,
+      "notes": "Author of encyclopedia Manasollasa"
+    },
+    {
+      "name": "Someshvara IV",
+      "reign_start": 1184,
+      "reign_end": 1189,
+      "notes": "Last; overthrown by Kalachuris and feudatories"
+    }
+  ],
+  "religion": "Hinduism (Shaiva); Jainism, Virashaivism (Basava) emerged",
+  "predecessor": "rashtrakuta",
+  "successor": "seuna",
+  "notable_achievements": [
+    "Patronage of Kannada literature (Pampa II, Ranna)",
+    "Lingayat (Virashaiva) movement under Basavanna emerged at Kalyani",
+    "Long wars with Cholas over Vengi"
+  ],
+  "notes": ""
+}

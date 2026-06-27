@@ -1,0 +1,2689 @@
+[
+  {
+    "slug": "haryanka",
+    "name": "Haryanka Dynasty",
+    "alt_names": [
+      "Haryanka"
+    ],
+    "period": {
+      "start": -544,
+      "end": -413,
+      "start_era": "BCE",
+      "end_era": "BCE"
+    },
+    "region": "Magadha (modern Bihar)",
+    "capitals": [
+      "Rajgir",
+      "Pataliputra"
+    ],
+    "rulers": [
+      {
+        "name": "Bimbisara",
+        "reign_start": -544,
+        "reign_end": -492,
+        "notes": "Contemporary of the Buddha; expanded Magadha"
+      },
+      {
+        "name": "Ajatashatru",
+        "reign_start": -492,
+        "reign_end": -460,
+        "notes": "Patricide; built first fort at Pataliputra"
+      },
+      {
+        "name": "Udayin",
+        "reign_start": -460,
+        "reign_end": -444,
+        "notes": "Moved capital to Pataliputra"
+      },
+      {
+        "name": "Anuruddha",
+        "reign_start": -444,
+        "reign_end": -440,
+        "notes": ""
+      },
+      {
+        "name": "Munda",
+        "reign_start": -440,
+        "reign_end": -437,
+        "notes": ""
+      },
+      {
+        "name": "Nagadasaka",
+        "reign_start": -437,
+        "reign_end": -413,
+        "notes": "Overthrown by Shishunaga"
+      }
+    ],
+    "religion": "Hinduism, Buddhism, Jainism (early patronage)",
+    "predecessor": null,
+    "successor": "shishunaga",
+    "notable_achievements": [
+      "Established Magadha as a major power",
+      "Founded Pataliputra"
+    ],
+    "notes": "Earliest historically attested dynasty of Magadha; dates approximate per traditional Buddhist chronology."
+  },
+  {
+    "slug": "shishunaga",
+    "name": "Shishunaga Dynasty",
+    "alt_names": [
+      "Shaishunaga"
+    ],
+    "period": {
+      "start": -413,
+      "end": -345,
+      "start_era": "BCE",
+      "end_era": "BCE"
+    },
+    "region": "Magadha (modern Bihar)",
+    "capitals": [
+      "Pataliputra",
+      "Vaishali"
+    ],
+    "rulers": [
+      {
+        "name": "Shishunaga",
+        "reign_start": -413,
+        "reign_end": -395,
+        "notes": "Founder"
+      },
+      {
+        "name": "Kalashoka",
+        "reign_start": -395,
+        "reign_end": -367,
+        "notes": "Held the Second Buddhist Council"
+      },
+      {
+        "name": "Mahanandin",
+        "reign_start": -367,
+        "reign_end": -345,
+        "notes": "Last ruler; overthrown by Mahapadma Nanda"
+      }
+    ],
+    "religion": "Hinduism, Buddhism",
+    "predecessor": "haryanka",
+    "successor": "nanda",
+    "notable_achievements": [
+      "Destroyed Avanti rival kingdom",
+      "Hosted Second Buddhist Council"
+    ],
+    "notes": "Dates per Buddhist chronology; ruler list may be incomplete between Kalashoka and Mahanandin."
+  },
+  {
+    "slug": "nanda",
+    "name": "Nanda Dynasty",
+    "alt_names": [
+      "Nanda Empire"
+    ],
+    "period": {
+      "start": -345,
+      "end": -322,
+      "start_era": "BCE",
+      "end_era": "BCE"
+    },
+    "region": "Northern India",
+    "capitals": [
+      "Pataliputra"
+    ],
+    "rulers": [
+      {
+        "name": "Mahapadma Nanda",
+        "reign_start": -345,
+        "reign_end": -329,
+        "notes": "Founder; \"uprooter of all kshatriyas\""
+      },
+      {
+        "name": "Dhana Nanda",
+        "reign_start": -329,
+        "reign_end": -322,
+        "notes": "Last Nanda; overthrown by Chandragupta Maurya"
+      }
+    ],
+    "religion": "Hinduism, Jainism",
+    "predecessor": "shishunaga",
+    "successor": "mauryan",
+    "notable_achievements": [
+      "Largest Indian empire before the Mauryas",
+      "Standing army recorded by Greek sources"
+    ],
+    "notes": "Tradition records eight sons of Mahapadma; only first and last are securely dated."
+  },
+  {
+    "slug": "mauryan",
+    "name": "Mauryan Empire",
+    "alt_names": [
+      "Maurya Dynasty"
+    ],
+    "period": {
+      "start": -322,
+      "end": -185,
+      "start_era": "BCE",
+      "end_era": "BCE"
+    },
+    "region": "South Asia (most of subcontinent)",
+    "capitals": [
+      "Pataliputra"
+    ],
+    "rulers": [
+      {
+        "name": "Chandragupta Maurya",
+        "reign_start": -322,
+        "reign_end": -298,
+        "notes": "Founder; tutored by Chanakya/Kautilya"
+      },
+      {
+        "name": "Bindusara",
+        "reign_start": -297,
+        "reign_end": -273,
+        "notes": ""
+      },
+      {
+        "name": "Ashoka the Great",
+        "reign_start": -268,
+        "reign_end": -232,
+        "notes": "Embraced Buddhism after Kalinga War; dhamma edicts"
+      },
+      {
+        "name": "Dasharatha",
+        "reign_start": -232,
+        "reign_end": -224,
+        "notes": ""
+      },
+      {
+        "name": "Samprati",
+        "reign_start": -224,
+        "reign_end": -215,
+        "notes": "Patron of Jainism"
+      },
+      {
+        "name": "Shalishuka",
+        "reign_start": -215,
+        "reign_end": -202,
+        "notes": ""
+      },
+      {
+        "name": "Devavarman",
+        "reign_start": -202,
+        "reign_end": -195,
+        "notes": ""
+      },
+      {
+        "name": "Shatadhanvan",
+        "reign_start": -195,
+        "reign_end": -187,
+        "notes": ""
+      },
+      {
+        "name": "Brihadratha",
+        "reign_start": -187,
+        "reign_end": -185,
+        "notes": "Last Maurya; assassinated by Pushyamitra Shunga"
+      }
+    ],
+    "religion": "Hinduism, Buddhism, Jainism (pluralistic; Ashoka patronised Buddhism)",
+    "predecessor": "nanda",
+    "successor": "shunga",
+    "notable_achievements": [
+      "First pan-Indian empire",
+      "Ashoka's rock and pillar edicts",
+      "Spread of Buddhism to Sri Lanka and Central Asia"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "satavahana",
+    "name": "Satavahana Dynasty",
+    "alt_names": [
+      "Andhra Dynasty",
+      "Satakarni"
+    ],
+    "period": {
+      "start": -230,
+      "end": 220,
+      "start_era": "BCE",
+      "end_era": "CE"
+    },
+    "region": "Deccan (modern Maharashtra, Andhra, Telangana, Karnataka)",
+    "capitals": [
+      "Pratishthana (Paithan)",
+      "Amaravati"
+    ],
+    "rulers": [
+      {
+        "name": "Simuka",
+        "reign_start": -230,
+        "reign_end": -207,
+        "notes": "Founder"
+      },
+      {
+        "name": "Krishna",
+        "reign_start": -207,
+        "reign_end": -189,
+        "notes": ""
+      },
+      {
+        "name": "Satakarni I",
+        "reign_start": -180,
+        "reign_end": -124,
+        "notes": "Performed Ashvamedha"
+      },
+      {
+        "name": "Hala",
+        "reign_start": 20,
+        "reign_end": 24,
+        "notes": "Compiled Gatha Saptasati (Prakrit poetry)"
+      },
+      {
+        "name": "Gautamiputra Satakarni",
+        "reign_start": 78,
+        "reign_end": 102,
+        "notes": "Greatest ruler; defeated Western Kshatrapas"
+      },
+      {
+        "name": "Vasishthiputra Pulumavi",
+        "reign_start": 102,
+        "reign_end": 130,
+        "notes": ""
+      },
+      {
+        "name": "Yajna Sri Satakarni",
+        "reign_start": 174,
+        "reign_end": 203,
+        "notes": ""
+      },
+      {
+        "name": "Pulumavi IV",
+        "reign_start": 217,
+        "reign_end": 220,
+        "notes": "Last; dynasty fragmented after"
+      }
+    ],
+    "religion": "Hinduism, Buddhism (patronised both)",
+    "predecessor": null,
+    "successor": "vakataka",
+    "notable_achievements": [
+      "Patronage of Amaravati and Nagarjunakonda Buddhist sites",
+      "First Deccan dynasty to issue lead and silver coinage",
+      "Maritime trade with Rome"
+    ],
+    "notes": "Partial ruler list; ~30 kings known from Puranas, ~17 epigraphically attested."
+  },
+  {
+    "slug": "shunga",
+    "name": "Shunga Dynasty",
+    "alt_names": [
+      "Sunga"
+    ],
+    "period": {
+      "start": -185,
+      "end": -73,
+      "start_era": "BCE",
+      "end_era": "BCE"
+    },
+    "region": "North-central India",
+    "capitals": [
+      "Pataliputra",
+      "Vidisha"
+    ],
+    "rulers": [
+      {
+        "name": "Pushyamitra Shunga",
+        "reign_start": -185,
+        "reign_end": -149,
+        "notes": "Founder; revived Brahmanical sacrifice"
+      },
+      {
+        "name": "Agnimitra",
+        "reign_start": -149,
+        "reign_end": -141,
+        "notes": "Hero of Kalidasa play Malavikagnimitram"
+      },
+      {
+        "name": "Vasujyeshtha",
+        "reign_start": -141,
+        "reign_end": -131,
+        "notes": ""
+      },
+      {
+        "name": "Vasumitra",
+        "reign_start": -131,
+        "reign_end": -124,
+        "notes": ""
+      },
+      {
+        "name": "Bhadraka",
+        "reign_start": -124,
+        "reign_end": -122,
+        "notes": ""
+      },
+      {
+        "name": "Pulindaka",
+        "reign_start": -122,
+        "reign_end": -119,
+        "notes": ""
+      },
+      {
+        "name": "Ghosha",
+        "reign_start": -119,
+        "reign_end": -108,
+        "notes": ""
+      },
+      {
+        "name": "Vajramitra",
+        "reign_start": -108,
+        "reign_end": -94,
+        "notes": ""
+      },
+      {
+        "name": "Bhagabhadra",
+        "reign_start": -94,
+        "reign_end": -83,
+        "notes": "Hosted Heliodorus, Indo-Greek envoy"
+      },
+      {
+        "name": "Devabhuti",
+        "reign_start": -83,
+        "reign_end": -73,
+        "notes": "Last Shunga; killed by Vasudeva Kanva"
+      }
+    ],
+    "religion": "Hinduism (Brahmanical revival)",
+    "predecessor": "mauryan",
+    "successor": "kanva",
+    "notable_achievements": [
+      "Stupa at Bharhut",
+      "Revival of Sanskrit and Brahmanical ritual",
+      "Patanjali wrote Mahabhashya"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "kanva",
+    "name": "Kanva Dynasty",
+    "alt_names": [
+      "Kanvayana"
+    ],
+    "period": {
+      "start": -73,
+      "end": -28,
+      "start_era": "BCE",
+      "end_era": "BCE"
+    },
+    "region": "Magadha",
+    "capitals": [
+      "Pataliputra"
+    ],
+    "rulers": [
+      {
+        "name": "Vasudeva Kanva",
+        "reign_start": -73,
+        "reign_end": -64,
+        "notes": "Founder; killed Devabhuti Shunga"
+      },
+      {
+        "name": "Bhumimitra",
+        "reign_start": -64,
+        "reign_end": -50,
+        "notes": ""
+      },
+      {
+        "name": "Narayana",
+        "reign_start": -50,
+        "reign_end": -38,
+        "notes": ""
+      },
+      {
+        "name": "Susharman",
+        "reign_start": -38,
+        "reign_end": -28,
+        "notes": "Last; overthrown by Satavahanas per Puranas"
+      }
+    ],
+    "religion": "Hinduism",
+    "predecessor": "shunga",
+    "successor": "satavahana",
+    "notable_achievements": [
+      "Brief Brahmin dynasty bridging Shunga and Satavahana periods"
+    ],
+    "notes": "Sparse epigraphic record; dates per Puranic king-lists."
+  },
+  {
+    "slug": "kushan",
+    "name": "Kushan Empire",
+    "alt_names": [
+      "Kushana",
+      "Yuezhi"
+    ],
+    "period": {
+      "start": 30,
+      "end": 375,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Central Asia, Afghanistan, north-west India to Varanasi",
+    "capitals": [
+      "Bagram (Kapisa)",
+      "Purushapura (Peshawar)",
+      "Mathura"
+    ],
+    "rulers": [
+      {
+        "name": "Kujula Kadphises",
+        "reign_start": 30,
+        "reign_end": 80,
+        "notes": "Founder; united Yuezhi tribes"
+      },
+      {
+        "name": "Vima Takto",
+        "reign_start": 80,
+        "reign_end": 95,
+        "notes": ""
+      },
+      {
+        "name": "Vima Kadphises",
+        "reign_start": 95,
+        "reign_end": 127,
+        "notes": "Issued gold coins"
+      },
+      {
+        "name": "Kanishka I",
+        "reign_start": 127,
+        "reign_end": 150,
+        "notes": "Greatest ruler; patron of Mahayana Buddhism; Fourth Buddhist Council"
+      },
+      {
+        "name": "Huvishka",
+        "reign_start": 150,
+        "reign_end": 190,
+        "notes": ""
+      },
+      {
+        "name": "Vasudeva I",
+        "reign_start": 190,
+        "reign_end": 230,
+        "notes": ""
+      },
+      {
+        "name": "Kanishka II",
+        "reign_start": 230,
+        "reign_end": 247,
+        "notes": ""
+      },
+      {
+        "name": "Vashishka",
+        "reign_start": 247,
+        "reign_end": 267,
+        "notes": ""
+      },
+      {
+        "name": "Kanishka III",
+        "reign_start": 267,
+        "reign_end": 270,
+        "notes": ""
+      },
+      {
+        "name": "Vasudeva II",
+        "reign_start": 270,
+        "reign_end": 310,
+        "notes": ""
+      }
+    ],
+    "religion": "Buddhism, Hinduism, Zoroastrianism, Hellenistic cults (syncretic)",
+    "predecessor": null,
+    "successor": "gupta",
+    "notable_achievements": [
+      "Gandhara art",
+      "Spread of Mahayana Buddhism to Central Asia and China",
+      "Trans-Eurasian Silk Road trade"
+    ],
+    "notes": "Kanishka era start contested; the date 127 CE is the current scholarly consensus (Falk 2001)."
+  },
+  {
+    "slug": "western-kshatrapa",
+    "name": "Western Kshatrapas",
+    "alt_names": [
+      "Western Satraps",
+      "Kshaharatas / Kardamakas"
+    ],
+    "period": {
+      "start": 35,
+      "end": 415,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Western India (Gujarat, Malwa, Rajasthan)",
+    "capitals": [
+      "Ujjain",
+      "Junagadh"
+    ],
+    "rulers": [
+      {
+        "name": "Bhumaka",
+        "reign_start": 35,
+        "reign_end": 78,
+        "notes": "Kshaharata branch"
+      },
+      {
+        "name": "Nahapana",
+        "reign_start": 78,
+        "reign_end": 119,
+        "notes": "Issued silver coins; defeated by Gautamiputra Satakarni"
+      },
+      {
+        "name": "Chashtana",
+        "reign_start": 78,
+        "reign_end": 130,
+        "notes": "Founded Kardamaka branch at Ujjain"
+      },
+      {
+        "name": "Rudradaman I",
+        "reign_start": 130,
+        "reign_end": 150,
+        "notes": "Junagadh rock inscription; first long Sanskrit prashasti"
+      },
+      {
+        "name": "Rudrasimha III",
+        "reign_start": 388,
+        "reign_end": 415,
+        "notes": "Last; killed by Chandragupta II of Gupta dynasty"
+      }
+    ],
+    "religion": "Hinduism, Buddhism",
+    "predecessor": null,
+    "successor": "gupta",
+    "notable_achievements": [
+      "Earliest long Sanskrit inscription (Junagadh, 150 CE)",
+      "Long-running silver coinage"
+    ],
+    "notes": "Partial ruler list; over two dozen Kshatrapas known. Two parallel branches (Kshaharata then Kardamaka)."
+  },
+  {
+    "slug": "vakataka",
+    "name": "Vakataka Dynasty",
+    "alt_names": [
+      "Vakatakas"
+    ],
+    "period": {
+      "start": 250,
+      "end": 500,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Central Deccan (modern Maharashtra, Madhya Pradesh)",
+    "capitals": [
+      "Nandivardhana",
+      "Pravarapura",
+      "Vatsagulma"
+    ],
+    "rulers": [
+      {
+        "name": "Vindhyashakti",
+        "reign_start": 250,
+        "reign_end": 270,
+        "notes": "Founder"
+      },
+      {
+        "name": "Pravarasena I",
+        "reign_start": 270,
+        "reign_end": 330,
+        "notes": "Performed four Ashvamedhas"
+      },
+      {
+        "name": "Rudrasena I",
+        "reign_start": 335,
+        "reign_end": 360,
+        "notes": ""
+      },
+      {
+        "name": "Prithivisena I",
+        "reign_start": 360,
+        "reign_end": 385,
+        "notes": ""
+      },
+      {
+        "name": "Rudrasena II",
+        "reign_start": 385,
+        "reign_end": 390,
+        "notes": "Married Prabhavatigupta, daughter of Chandragupta II"
+      },
+      {
+        "name": "Pravarasena II",
+        "reign_start": 400,
+        "reign_end": 440,
+        "notes": "Composed Setubandha in Prakrit"
+      },
+      {
+        "name": "Harishena",
+        "reign_start": 475,
+        "reign_end": 500,
+        "notes": "Patronised Ajanta caves"
+      }
+    ],
+    "religion": "Hinduism (Shaiva)",
+    "predecessor": "satavahana",
+    "successor": "chalukya-badami",
+    "notable_achievements": [
+      "Patronage of Ajanta caves (Vakataka phase)",
+      "Marriage alliance with Imperial Guptas"
+    ],
+    "notes": "Two branches: Pravarapura-Nandivardhana (main) and Vatsagulma. Ruler list is for the main line."
+  },
+  {
+    "slug": "pallava",
+    "name": "Pallava Dynasty",
+    "alt_names": [
+      "Pallavas of Kanchi"
+    ],
+    "period": {
+      "start": 275,
+      "end": 897,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "South India (northern Tamil Nadu, Andhra Pradesh)",
+    "capitals": [
+      "Kanchipuram"
+    ],
+    "rulers": [
+      {
+        "name": "Simhavarman I",
+        "reign_start": 275,
+        "reign_end": 300,
+        "notes": "Founder"
+      },
+      {
+        "name": "Mahendravarman I",
+        "reign_start": 600,
+        "reign_end": 630,
+        "notes": "Patron of rock-cut architecture; convert to Shaivism"
+      },
+      {
+        "name": "Narasimhavarman I (Mamalla)",
+        "reign_start": 630,
+        "reign_end": 668,
+        "notes": "Sacked Chalukya capital Vatapi; Mahabalipuram monuments"
+      },
+      {
+        "name": "Mahendravarman II",
+        "reign_start": 668,
+        "reign_end": 670,
+        "notes": ""
+      },
+      {
+        "name": "Paramesvaravarman I",
+        "reign_start": 670,
+        "reign_end": 695,
+        "notes": ""
+      },
+      {
+        "name": "Narasimhavarman II (Rajasimha)",
+        "reign_start": 695,
+        "reign_end": 728,
+        "notes": "Built Kailasanathar and Shore Temples"
+      },
+      {
+        "name": "Nandivarman II",
+        "reign_start": 731,
+        "reign_end": 796,
+        "notes": ""
+      },
+      {
+        "name": "Aparajitavarman",
+        "reign_start": 880,
+        "reign_end": 897,
+        "notes": "Last; defeated by Chola Aditya I"
+      }
+    ],
+    "religion": "Hinduism (Shaiva, Vaishnava); Jainism, Buddhism patronised",
+    "predecessor": null,
+    "successor": "chola",
+    "notable_achievements": [
+      "Mahabalipuram rock-cut monuments (UNESCO)",
+      "Origin of Dravidian temple architecture",
+      "Patronised Tamil and Sanskrit literature"
+    ],
+    "notes": "Early Pallavas (3rd–6th c.) are poorly attested; ruler list focuses on the imperial phase from Simhavishnu onwards."
+  },
+  {
+    "slug": "gupta",
+    "name": "Gupta Empire",
+    "alt_names": [
+      "Imperial Guptas"
+    ],
+    "period": {
+      "start": 320,
+      "end": 550,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern and central India",
+    "capitals": [
+      "Pataliputra"
+    ],
+    "rulers": [
+      {
+        "name": "Chandragupta I",
+        "reign_start": 320,
+        "reign_end": 335,
+        "notes": "Founder of imperial line"
+      },
+      {
+        "name": "Samudragupta",
+        "reign_start": 335,
+        "reign_end": 375,
+        "notes": "Allahabad pillar prashasti by Harisena"
+      },
+      {
+        "name": "Chandragupta II (Vikramaditya)",
+        "reign_start": 375,
+        "reign_end": 415,
+        "notes": "Defeated Western Kshatrapas; court of Kalidasa"
+      },
+      {
+        "name": "Kumaragupta I",
+        "reign_start": 415,
+        "reign_end": 455,
+        "notes": "Founded Nalanda Mahavihara"
+      },
+      {
+        "name": "Skandagupta",
+        "reign_start": 455,
+        "reign_end": 467,
+        "notes": "Repelled Huna invasion"
+      },
+      {
+        "name": "Purugupta",
+        "reign_start": 467,
+        "reign_end": 473,
+        "notes": ""
+      },
+      {
+        "name": "Kumaragupta II",
+        "reign_start": 473,
+        "reign_end": 476,
+        "notes": ""
+      },
+      {
+        "name": "Budhagupta",
+        "reign_start": 476,
+        "reign_end": 495,
+        "notes": ""
+      },
+      {
+        "name": "Narasimhagupta",
+        "reign_start": 495,
+        "reign_end": 530,
+        "notes": ""
+      },
+      {
+        "name": "Vishnugupta",
+        "reign_start": 540,
+        "reign_end": 550,
+        "notes": "Last major Gupta"
+      }
+    ],
+    "religion": "Hinduism (Vaishnava patronage); Buddhism, Jainism tolerated",
+    "predecessor": "kushan",
+    "successor": "pushyabhuti",
+    "notable_achievements": [
+      "Indian \"Golden Age\": Kalidasa, Aryabhata, Varahamihira, decimal place-value",
+      "Nalanda Mahavihara founded",
+      "Hindu temple architecture standardised"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "pushyabhuti",
+    "name": "Pushyabhuti Dynasty",
+    "alt_names": [
+      "Vardhana Dynasty",
+      "Harsha's Empire"
+    ],
+    "period": {
+      "start": 500,
+      "end": 647,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern India",
+    "capitals": [
+      "Thanesar",
+      "Kannauj"
+    ],
+    "rulers": [
+      {
+        "name": "Pushyabhuti",
+        "reign_start": 500,
+        "reign_end": 525,
+        "notes": "Eponymous founder; semi-legendary"
+      },
+      {
+        "name": "Prabhakaravardhana",
+        "reign_start": 580,
+        "reign_end": 605,
+        "notes": ""
+      },
+      {
+        "name": "Rajyavardhana",
+        "reign_start": 605,
+        "reign_end": 606,
+        "notes": "Killed by Shashanka of Gauda"
+      },
+      {
+        "name": "Harshavardhana",
+        "reign_start": 606,
+        "reign_end": 647,
+        "notes": "Unified north India; patron of Xuanzang and Bana"
+      }
+    ],
+    "religion": "Hinduism, Buddhism (Harsha increasingly Buddhist)",
+    "predecessor": "gupta",
+    "successor": null,
+    "notable_achievements": [
+      "Last great empire of northern India before the Turkic conquest",
+      "Patronage of Bana's Harshacharita and Xuanzang's visit"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "chalukya-badami",
+    "name": "Chalukyas of Badami",
+    "alt_names": [
+      "Early Chalukyas",
+      "Badami Chalukyas"
+    ],
+    "period": {
+      "start": 543,
+      "end": 753,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Karnataka and northern Deccan",
+    "capitals": [
+      "Vatapi (Badami)"
+    ],
+    "rulers": [
+      {
+        "name": "Pulakeshin I",
+        "reign_start": 543,
+        "reign_end": 566,
+        "notes": "Founder; fortified Vatapi"
+      },
+      {
+        "name": "Kirtivarman I",
+        "reign_start": 566,
+        "reign_end": 597,
+        "notes": ""
+      },
+      {
+        "name": "Mangalesha",
+        "reign_start": 597,
+        "reign_end": 609,
+        "notes": ""
+      },
+      {
+        "name": "Pulakeshin II",
+        "reign_start": 610,
+        "reign_end": 642,
+        "notes": "Defeated Harsha on Narmada; received Persian envoy"
+      },
+      {
+        "name": "Vikramaditya I",
+        "reign_start": 655,
+        "reign_end": 680,
+        "notes": "Recaptured Vatapi from Pallavas"
+      },
+      {
+        "name": "Vinayaditya",
+        "reign_start": 680,
+        "reign_end": 696,
+        "notes": ""
+      },
+      {
+        "name": "Vijayaditya",
+        "reign_start": 696,
+        "reign_end": 733,
+        "notes": ""
+      },
+      {
+        "name": "Vikramaditya II",
+        "reign_start": 733,
+        "reign_end": 746,
+        "notes": "Sacked Kanchi"
+      },
+      {
+        "name": "Kirtivarman II",
+        "reign_start": 746,
+        "reign_end": 753,
+        "notes": "Last; overthrown by Rashtrakutas"
+      }
+    ],
+    "religion": "Hinduism (Shaiva and Vaishnava); Jainism patronised",
+    "predecessor": "vakataka",
+    "successor": "rashtrakuta",
+    "notable_achievements": [
+      "Cave temples at Badami and Aihole",
+      "Pulakeshin II defeated Harsha (only major check on Harshavardhana)",
+      "Aihole inscription of Ravikirti"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "gurjara-pratihara",
+    "name": "Gurjara-Pratihara Dynasty",
+    "alt_names": [
+      "Pratiharas of Kannauj"
+    ],
+    "period": {
+      "start": 730,
+      "end": 1036,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern India",
+    "capitals": [
+      "Kannauj"
+    ],
+    "rulers": [
+      {
+        "name": "Nagabhata I",
+        "reign_start": 730,
+        "reign_end": 760,
+        "notes": "Founder; repelled Arab invasions"
+      },
+      {
+        "name": "Vatsaraja",
+        "reign_start": 775,
+        "reign_end": 805,
+        "notes": "Tripartite struggle for Kannauj"
+      },
+      {
+        "name": "Nagabhata II",
+        "reign_start": 805,
+        "reign_end": 833,
+        "notes": "Captured Kannauj"
+      },
+      {
+        "name": "Mihira Bhoja",
+        "reign_start": 836,
+        "reign_end": 885,
+        "notes": "Greatest Pratihara; empire from Sutlej to Narmada"
+      },
+      {
+        "name": "Mahendrapala I",
+        "reign_start": 885,
+        "reign_end": 910,
+        "notes": "Patron of Rajashekhara"
+      },
+      {
+        "name": "Mahipala I",
+        "reign_start": 913,
+        "reign_end": 944,
+        "notes": "Sack of Kannauj by Indra III Rashtrakuta"
+      },
+      {
+        "name": "Rajyapala",
+        "reign_start": 1018,
+        "reign_end": 1018,
+        "notes": "Fled Mahmud of Ghazni; killed by Chandella"
+      },
+      {
+        "name": "Yashapala",
+        "reign_start": 1024,
+        "reign_end": 1036,
+        "notes": "Last Pratihara"
+      }
+    ],
+    "religion": "Hinduism (Vaishnava, Shaiva)",
+    "predecessor": null,
+    "successor": "gahadavala",
+    "notable_achievements": [
+      "Buffer against Arab expansion eastward",
+      "Tripartite struggle (with Palas and Rashtrakutas) for Kannauj"
+    ],
+    "notes": "Partial ruler list; tripartite-struggle period spans century of Indian history."
+  },
+  {
+    "slug": "pala",
+    "name": "Pala Empire",
+    "alt_names": [
+      "Palas of Bengal"
+    ],
+    "period": {
+      "start": 750,
+      "end": 1161,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Bengal, Bihar, parts of Odisha and Assam",
+    "capitals": [
+      "Gauda",
+      "Vikramapura"
+    ],
+    "rulers": [
+      {
+        "name": "Gopala I",
+        "reign_start": 750,
+        "reign_end": 770,
+        "notes": "Founder; elected by chiefs"
+      },
+      {
+        "name": "Dharmapala",
+        "reign_start": 770,
+        "reign_end": 810,
+        "notes": "Founded Vikramashila; tripartite struggle for Kannauj"
+      },
+      {
+        "name": "Devapala",
+        "reign_start": 810,
+        "reign_end": 850,
+        "notes": "Greatest Pala; empire extended to Assam and Odisha"
+      },
+      {
+        "name": "Mahipala I",
+        "reign_start": 988,
+        "reign_end": 1038,
+        "notes": "Revived Pala fortunes"
+      },
+      {
+        "name": "Ramapala",
+        "reign_start": 1082,
+        "reign_end": 1124,
+        "notes": "Subject of Sandhyakar Nandi's Ramacharita"
+      },
+      {
+        "name": "Madanapala",
+        "reign_start": 1144,
+        "reign_end": 1161,
+        "notes": "Last major Pala"
+      }
+    ],
+    "religion": "Buddhism (Mahayana, Vajrayana); Hinduism tolerated",
+    "predecessor": null,
+    "successor": "sena",
+    "notable_achievements": [
+      "Last major royal patrons of Indian Buddhism",
+      "Founded Vikramashila and patronised Nalanda",
+      "Spread of Buddhism to Tibet (Atisha)"
+    ],
+    "notes": "Partial ruler list; ~18 Palas known."
+  },
+  {
+    "slug": "rashtrakuta",
+    "name": "Rashtrakuta Dynasty",
+    "alt_names": [
+      "Rashtrakutas of Manyakheta"
+    ],
+    "period": {
+      "start": 753,
+      "end": 982,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Deccan (most of modern Maharashtra, Karnataka, AP, parts of north India)",
+    "capitals": [
+      "Manyakheta (Malkhed)"
+    ],
+    "rulers": [
+      {
+        "name": "Dantidurga",
+        "reign_start": 753,
+        "reign_end": 756,
+        "notes": "Founder; overthrew Chalukyas of Badami"
+      },
+      {
+        "name": "Krishna I",
+        "reign_start": 756,
+        "reign_end": 774,
+        "notes": "Built Kailasa Temple at Ellora"
+      },
+      {
+        "name": "Dhruva Dharavarsha",
+        "reign_start": 780,
+        "reign_end": 793,
+        "notes": "First Rashtrakuta to win the tripartite struggle"
+      },
+      {
+        "name": "Govinda III",
+        "reign_start": 793,
+        "reign_end": 814,
+        "notes": "Greatest military success; defeated Palas and Pratiharas"
+      },
+      {
+        "name": "Amoghavarsha I",
+        "reign_start": 814,
+        "reign_end": 878,
+        "notes": "Patron of Jainism; author of Kavirajamarga (earliest Kannada poetics)"
+      },
+      {
+        "name": "Krishna II",
+        "reign_start": 878,
+        "reign_end": 914,
+        "notes": ""
+      },
+      {
+        "name": "Indra III",
+        "reign_start": 914,
+        "reign_end": 929,
+        "notes": "Sacked Kannauj"
+      },
+      {
+        "name": "Krishna III",
+        "reign_start": 939,
+        "reign_end": 967,
+        "notes": "Defeated Cholas"
+      },
+      {
+        "name": "Karka II",
+        "reign_start": 972,
+        "reign_end": 973,
+        "notes": ""
+      },
+      {
+        "name": "Indra IV",
+        "reign_start": 973,
+        "reign_end": 982,
+        "notes": "Last; took sallekhana (Jain ritual fast unto death)"
+      }
+    ],
+    "religion": "Hinduism (Shaiva, Vaishnava); strong Jain patronage",
+    "predecessor": "chalukya-badami",
+    "successor": "chalukya-kalyani",
+    "notable_achievements": [
+      "Kailasa Temple at Ellora (monolithic)",
+      "Amoghavarsha's Kavirajamarga — first work in Kannada literature",
+      "Arab geographers ranked Rashtrakutas among \"Four Great Kingdoms\" of the world"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "chola",
+    "name": "Chola Dynasty (Imperial)",
+    "alt_names": [
+      "Imperial Cholas",
+      "Later Cholas"
+    ],
+    "period": {
+      "start": 848,
+      "end": 1279,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "South India (Tamil Nadu, Sri Lanka, SE Asian coast)",
+    "capitals": [
+      "Thanjavur",
+      "Gangaikondacholapuram"
+    ],
+    "rulers": [
+      {
+        "name": "Vijayalaya",
+        "reign_start": 848,
+        "reign_end": 871,
+        "notes": "Founder of imperial Cholas; captured Thanjavur"
+      },
+      {
+        "name": "Aditya I",
+        "reign_start": 871,
+        "reign_end": 907,
+        "notes": "Defeated Pallavas"
+      },
+      {
+        "name": "Parantaka I",
+        "reign_start": 907,
+        "reign_end": 955,
+        "notes": "Conquered Pandya and Sri Lanka territory"
+      },
+      {
+        "name": "Rajaraja I",
+        "reign_start": 985,
+        "reign_end": 1014,
+        "notes": "Built Brihadishvara Temple; consolidated empire"
+      },
+      {
+        "name": "Rajendra I",
+        "reign_start": 1014,
+        "reign_end": 1044,
+        "notes": "Naval expedition to SE Asia (Srivijaya); marched to Ganga"
+      },
+      {
+        "name": "Rajadhiraja I",
+        "reign_start": 1044,
+        "reign_end": 1054,
+        "notes": ""
+      },
+      {
+        "name": "Rajendra II",
+        "reign_start": 1054,
+        "reign_end": 1063,
+        "notes": ""
+      },
+      {
+        "name": "Virarajendra",
+        "reign_start": 1063,
+        "reign_end": 1070,
+        "notes": ""
+      },
+      {
+        "name": "Kulothunga I",
+        "reign_start": 1070,
+        "reign_end": 1122,
+        "notes": "Merged Chalukya and Chola lines"
+      },
+      {
+        "name": "Kulothunga III",
+        "reign_start": 1178,
+        "reign_end": 1218,
+        "notes": "Last great Chola"
+      },
+      {
+        "name": "Rajendra III",
+        "reign_start": 1246,
+        "reign_end": 1279,
+        "notes": "Last Chola; overthrown by Pandyas"
+      }
+    ],
+    "religion": "Hinduism (Shaiva)",
+    "predecessor": "pallava",
+    "successor": "pandyan",
+    "notable_achievements": [
+      "Brihadishvara Temple (UNESCO)",
+      "Only Indian dynasty to invade SE Asia (Srivijaya, 1025)",
+      "Sophisticated village self-government documented in Uttaramerur inscription",
+      "Bronze sculpture (Nataraja)"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "chalukya-kalyani",
+    "name": "Western Chalukyas",
+    "alt_names": [
+      "Chalukyas of Kalyani",
+      "Later Chalukyas"
+    ],
+    "period": {
+      "start": 973,
+      "end": 1189,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Deccan (Karnataka, parts of Maharashtra and Andhra)",
+    "capitals": [
+      "Kalyani (Basavakalyan)"
+    ],
+    "rulers": [
+      {
+        "name": "Tailapa II",
+        "reign_start": 973,
+        "reign_end": 997,
+        "notes": "Founder; overthrew Rashtrakutas"
+      },
+      {
+        "name": "Satyashraya",
+        "reign_start": 997,
+        "reign_end": 1008,
+        "notes": ""
+      },
+      {
+        "name": "Jayasimha II",
+        "reign_start": 1015,
+        "reign_end": 1042,
+        "notes": ""
+      },
+      {
+        "name": "Someshvara I",
+        "reign_start": 1042,
+        "reign_end": 1068,
+        "notes": "Founded Kalyani"
+      },
+      {
+        "name": "Vikramaditya VI",
+        "reign_start": 1076,
+        "reign_end": 1126,
+        "notes": "Greatest ruler; subject of Bilhana's Vikramankadevacharita; founded Chalukya-Vikrama era"
+      },
+      {
+        "name": "Someshvara III",
+        "reign_start": 1126,
+        "reign_end": 1138,
+        "notes": "Author of encyclopedia Manasollasa"
+      },
+      {
+        "name": "Someshvara IV",
+        "reign_start": 1184,
+        "reign_end": 1189,
+        "notes": "Last; overthrown by Kalachuris and feudatories"
+      }
+    ],
+    "religion": "Hinduism (Shaiva); Jainism, Virashaivism (Basava) emerged",
+    "predecessor": "rashtrakuta",
+    "successor": "seuna",
+    "notable_achievements": [
+      "Patronage of Kannada literature (Pampa II, Ranna)",
+      "Lingayat (Virashaiva) movement under Basavanna emerged at Kalyani",
+      "Long wars with Cholas over Vengi"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "hoysala",
+    "name": "Hoysala Dynasty",
+    "alt_names": [
+      "Hoysalas"
+    ],
+    "period": {
+      "start": 1026,
+      "end": 1343,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Karnataka",
+    "capitals": [
+      "Belur",
+      "Halebidu"
+    ],
+    "rulers": [
+      {
+        "name": "Nripa Kama II",
+        "reign_start": 1026,
+        "reign_end": 1047,
+        "notes": "Founder"
+      },
+      {
+        "name": "Vinayaditya",
+        "reign_start": 1047,
+        "reign_end": 1098,
+        "notes": ""
+      },
+      {
+        "name": "Bittideva (Vishnuvardhana)",
+        "reign_start": 1108,
+        "reign_end": 1152,
+        "notes": "Convert from Jainism to Vaishnavism (Ramanuja); built Chennakeshava at Belur"
+      },
+      {
+        "name": "Veera Ballala II",
+        "reign_start": 1173,
+        "reign_end": 1220,
+        "notes": "Asserted full sovereignty; defeated Yadavas and Cholas"
+      },
+      {
+        "name": "Veera Ballala III",
+        "reign_start": 1292,
+        "reign_end": 1343,
+        "notes": "Last; killed fighting Madurai Sultanate"
+      }
+    ],
+    "religion": "Hinduism (Jainism early; later Vaishnava under Ramanuja)",
+    "predecessor": "chalukya-kalyani",
+    "successor": "vijayanagara",
+    "notable_achievements": [
+      "Hoysala temples at Belur, Halebidu, Somanathapura (UNESCO)",
+      "Patronage of Kannada literature (Janna, Harihara, Raghavanka)"
+    ],
+    "notes": "Partial ruler list; major rulers only."
+  },
+  {
+    "slug": "sena",
+    "name": "Sena Dynasty",
+    "alt_names": [
+      "Senas of Bengal"
+    ],
+    "period": {
+      "start": 1070,
+      "end": 1230,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Bengal",
+    "capitals": [
+      "Nabadwip",
+      "Lakhnauti"
+    ],
+    "rulers": [
+      {
+        "name": "Hemanta Sena",
+        "reign_start": 1070,
+        "reign_end": 1096,
+        "notes": "Founder"
+      },
+      {
+        "name": "Vijaya Sena",
+        "reign_start": 1096,
+        "reign_end": 1159,
+        "notes": "Established Sena power"
+      },
+      {
+        "name": "Ballala Sena",
+        "reign_start": 1159,
+        "reign_end": 1179,
+        "notes": "Codified kulinism; author of Danasagara"
+      },
+      {
+        "name": "Lakshmana Sena",
+        "reign_start": 1179,
+        "reign_end": 1206,
+        "notes": "Patron of Jayadeva; fled Bakhtiyar Khilji 1204"
+      },
+      {
+        "name": "Vishvarupa Sena",
+        "reign_start": 1206,
+        "reign_end": 1225,
+        "notes": ""
+      },
+      {
+        "name": "Keshava Sena",
+        "reign_start": 1225,
+        "reign_end": 1230,
+        "notes": "Last"
+      }
+    ],
+    "religion": "Hinduism (Brahmanical revival)",
+    "predecessor": "pala",
+    "successor": null,
+    "notable_achievements": [
+      "Patronage of Jayadeva (Gita Govinda)",
+      "Codification of Bengali social structure"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "kakatiya",
+    "name": "Kakatiya Dynasty",
+    "alt_names": [
+      "Kakatiyas of Warangal"
+    ],
+    "period": {
+      "start": 1083,
+      "end": 1323,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Telangana, coastal Andhra",
+    "capitals": [
+      "Anumakonda",
+      "Warangal (Orugallu)"
+    ],
+    "rulers": [
+      {
+        "name": "Prola I",
+        "reign_start": 1083,
+        "reign_end": 1116,
+        "notes": ""
+      },
+      {
+        "name": "Prola II",
+        "reign_start": 1116,
+        "reign_end": 1158,
+        "notes": "Asserted independence from Western Chalukyas"
+      },
+      {
+        "name": "Rudra",
+        "reign_start": 1158,
+        "reign_end": 1195,
+        "notes": "Moved capital to Warangal"
+      },
+      {
+        "name": "Ganapati Deva",
+        "reign_start": 1199,
+        "reign_end": 1262,
+        "notes": "Greatest Kakatiya; long reign"
+      },
+      {
+        "name": "Rudrama Devi",
+        "reign_start": 1262,
+        "reign_end": 1289,
+        "notes": "One of few queens regnant in Indian history; praised by Marco Polo"
+      },
+      {
+        "name": "Prataparudra II",
+        "reign_start": 1289,
+        "reign_end": 1323,
+        "notes": "Last; captured by Tughlaq forces"
+      }
+    ],
+    "religion": "Hinduism (Shaiva)",
+    "predecessor": "chalukya-kalyani",
+    "successor": "tughlaq",
+    "notable_achievements": [
+      "Warangal Fort and Thousand Pillar Temple",
+      "Rudrama Devi — one of India's few sovereign queens"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "seuna",
+    "name": "Seuna (Yadava) Dynasty",
+    "alt_names": [
+      "Yadavas of Devagiri",
+      "Seunas"
+    ],
+    "period": {
+      "start": 1187,
+      "end": 1317,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Maharashtra, northern Karnataka",
+    "capitals": [
+      "Devagiri (Daulatabad)"
+    ],
+    "rulers": [
+      {
+        "name": "Bhillama V",
+        "reign_start": 1187,
+        "reign_end": 1191,
+        "notes": "Founder of sovereign Yadava line; built Devagiri fort"
+      },
+      {
+        "name": "Jaitugi I",
+        "reign_start": 1191,
+        "reign_end": 1200,
+        "notes": ""
+      },
+      {
+        "name": "Singhana II",
+        "reign_start": 1200,
+        "reign_end": 1247,
+        "notes": "Greatest Yadava; patron of Sangita Ratnakara"
+      },
+      {
+        "name": "Krishna",
+        "reign_start": 1247,
+        "reign_end": 1261,
+        "notes": ""
+      },
+      {
+        "name": "Mahadeva",
+        "reign_start": 1261,
+        "reign_end": 1271,
+        "notes": ""
+      },
+      {
+        "name": "Ramachandra",
+        "reign_start": 1271,
+        "reign_end": 1311,
+        "notes": "Defeated by Alauddin Khalji 1296; vassal thereafter"
+      },
+      {
+        "name": "Shankaradeva",
+        "reign_start": 1311,
+        "reign_end": 1313,
+        "notes": "Last; killed by Malik Kafur"
+      }
+    ],
+    "religion": "Hinduism (Vaishnava); patronised Marathi literature",
+    "predecessor": "chalukya-kalyani",
+    "successor": "khalji",
+    "notable_achievements": [
+      "Patronage of Marathi (Jnaneshwar, Mukundaraja)",
+      "Sangita Ratnakara (foundational music treatise)"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "mamluk",
+    "name": "Mamluk Dynasty (Slave Dynasty)",
+    "alt_names": [
+      "Slave Dynasty",
+      "Ghulam Dynasty"
+    ],
+    "period": {
+      "start": 1206,
+      "end": 1290,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern India (Delhi)",
+    "capitals": [
+      "Delhi"
+    ],
+    "rulers": [
+      {
+        "name": "Qutb-ud-din Aibak",
+        "reign_start": 1206,
+        "reign_end": 1210,
+        "notes": "Founder; built Qutb Minar"
+      },
+      {
+        "name": "Aram Shah",
+        "reign_start": 1210,
+        "reign_end": 1211,
+        "notes": ""
+      },
+      {
+        "name": "Iltutmish",
+        "reign_start": 1211,
+        "reign_end": 1236,
+        "notes": "Consolidated sultanate; instituted iqta system"
+      },
+      {
+        "name": "Rukn-ud-din Firuz",
+        "reign_start": 1236,
+        "reign_end": 1236,
+        "notes": ""
+      },
+      {
+        "name": "Razia Sultana",
+        "reign_start": 1236,
+        "reign_end": 1240,
+        "notes": "Only female sultan of Delhi"
+      },
+      {
+        "name": "Muiz-ud-din Bahram",
+        "reign_start": 1240,
+        "reign_end": 1242,
+        "notes": ""
+      },
+      {
+        "name": "Ala-ud-din Masud",
+        "reign_start": 1242,
+        "reign_end": 1246,
+        "notes": ""
+      },
+      {
+        "name": "Nasir-ud-din Mahmud",
+        "reign_start": 1246,
+        "reign_end": 1266,
+        "notes": ""
+      },
+      {
+        "name": "Ghiyas-ud-din Balban",
+        "reign_start": 1266,
+        "reign_end": 1287,
+        "notes": "Restored sultanate authority; Mongol resistance"
+      },
+      {
+        "name": "Muiz-ud-din Kaiqabad",
+        "reign_start": 1287,
+        "reign_end": 1290,
+        "notes": "Last; killed by Khaljis"
+      }
+    ],
+    "religion": "Islam (Sunni)",
+    "predecessor": null,
+    "successor": "khalji",
+    "notable_achievements": [
+      "First Islamic sultanate in India",
+      "Qutb Minar and Quwwat-ul-Islam Mosque",
+      "Razia Sultana — only female sultan"
+    ],
+    "notes": "Part of the Delhi Sultanate — five successive dynasties (Mamluk, Khalji, Tughlaq, Sayyid, Lodi) over 1206–1526."
+  },
+  {
+    "slug": "pandyan",
+    "name": "Pandyan Dynasty (Later)",
+    "alt_names": [
+      "Imperial Pandyas",
+      "Later Pandyas"
+    ],
+    "period": {
+      "start": 1216,
+      "end": 1345,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "South Tamil Nadu",
+    "capitals": [
+      "Madurai"
+    ],
+    "rulers": [
+      {
+        "name": "Maravarman Sundara Pandyan I",
+        "reign_start": 1216,
+        "reign_end": 1238,
+        "notes": "Re-established Pandyan sovereignty after Chola dominance"
+      },
+      {
+        "name": "Jatavarman Sundara Pandyan I",
+        "reign_start": 1251,
+        "reign_end": 1268,
+        "notes": "Imperial peak; conquered Cholas"
+      },
+      {
+        "name": "Maravarman Kulasekara Pandyan I",
+        "reign_start": 1268,
+        "reign_end": 1308,
+        "notes": "Marco Polo visited; succession war led to Khalji invasion"
+      },
+      {
+        "name": "Sundara Pandya IV",
+        "reign_start": 1309,
+        "reign_end": 1345,
+        "notes": "Last major Pandyan"
+      }
+    ],
+    "religion": "Hinduism (Shaiva, Vaishnava); Jainism, Buddhism patronised in earlier periods",
+    "predecessor": "chola",
+    "successor": "vijayanagara",
+    "notable_achievements": [
+      "Brief imperial revival in south India between Cholas and Vijayanagara",
+      "Madurai temple expansion"
+    ],
+    "notes": "The Pandyan name covers multiple non-contiguous dynasties from Sangam era (3rd c. BCE) onwards; this record covers the later imperial phase."
+  },
+  {
+    "slug": "ahom",
+    "name": "Ahom Dynasty",
+    "alt_names": [
+      "Ahom Kingdom"
+    ],
+    "period": {
+      "start": 1228,
+      "end": 1826,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Assam (upper Brahmaputra valley)",
+    "capitals": [
+      "Charaideo",
+      "Garhgaon",
+      "Rangpur",
+      "Jorhat"
+    ],
+    "rulers": [
+      {
+        "name": "Sukaphaa",
+        "reign_start": 1228,
+        "reign_end": 1268,
+        "notes": "Founder; migrated from Yunnan (Tai)"
+      },
+      {
+        "name": "Suhungmung",
+        "reign_start": 1497,
+        "reign_end": 1539,
+        "notes": "Adopted Hindu name Swarganarayan; expanded kingdom"
+      },
+      {
+        "name": "Pratap Singha",
+        "reign_start": 1603,
+        "reign_end": 1641,
+        "notes": "Stabilised against Mughal pressure"
+      },
+      {
+        "name": "Lachit Borphukan (general)",
+        "reign_start": 1671,
+        "reign_end": 1671,
+        "notes": "Naval victory at Saraighat — repelled Mughals (not a king)"
+      },
+      {
+        "name": "Rudra Singha",
+        "reign_start": 1696,
+        "reign_end": 1714,
+        "notes": "Greatest Ahom; cultural renaissance"
+      },
+      {
+        "name": "Purandar Singha",
+        "reign_start": 1818,
+        "reign_end": 1826,
+        "notes": "Last; Yandabo treaty ceded Assam to British"
+      }
+    ],
+    "religion": "Tai animism initially; Hinduism (Shaiva, Vaishnava) from 16th c.",
+    "predecessor": null,
+    "successor": "british-raj",
+    "notable_achievements": [
+      "Successfully resisted Mughal expansion for centuries (notably Battle of Saraighat 1671)",
+      "~600-year continuous dynasty — among longest in world history",
+      "Ahom Buranjis (historical chronicles)"
+    ],
+    "notes": "Partial ruler list; ~40 Ahom kings in total."
+  },
+  {
+    "slug": "khalji",
+    "name": "Khalji Dynasty",
+    "alt_names": [
+      "Khilji Dynasty"
+    ],
+    "period": {
+      "start": 1290,
+      "end": 1320,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Most of subcontinent except deep south and east",
+    "capitals": [
+      "Delhi"
+    ],
+    "rulers": [
+      {
+        "name": "Jalal-ud-din Firuz Khalji",
+        "reign_start": 1290,
+        "reign_end": 1296,
+        "notes": "Founder"
+      },
+      {
+        "name": "Alauddin Khalji",
+        "reign_start": 1296,
+        "reign_end": 1316,
+        "notes": "Greatest Khalji; price controls, market reforms; conquered Gujarat, Rajasthan, Deccan"
+      },
+      {
+        "name": "Shihab-ud-din Omar",
+        "reign_start": 1316,
+        "reign_end": 1316,
+        "notes": ""
+      },
+      {
+        "name": "Qutb-ud-din Mubarak Shah",
+        "reign_start": 1316,
+        "reign_end": 1320,
+        "notes": "Last; killed by Khusrau Khan"
+      }
+    ],
+    "religion": "Islam (Sunni)",
+    "predecessor": "mamluk",
+    "successor": "tughlaq",
+    "notable_achievements": [
+      "Repelled multiple Mongol invasions",
+      "Market and revenue reforms (Diwan-i-Riyasat)",
+      "Malik Kafur's campaigns reached the deep south"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "tughlaq",
+    "name": "Tughlaq Dynasty",
+    "alt_names": [
+      "Tughluq"
+    ],
+    "period": {
+      "start": 1320,
+      "end": 1414,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern India and Deccan (briefly)",
+    "capitals": [
+      "Delhi",
+      "Daulatabad (briefly)"
+    ],
+    "rulers": [
+      {
+        "name": "Ghiyas-ud-din Tughlaq",
+        "reign_start": 1320,
+        "reign_end": 1325,
+        "notes": "Founder"
+      },
+      {
+        "name": "Muhammad bin Tughlaq",
+        "reign_start": 1325,
+        "reign_end": 1351,
+        "notes": "Capital shift to Daulatabad; token currency; ambitious failures"
+      },
+      {
+        "name": "Firuz Shah Tughlaq",
+        "reign_start": 1351,
+        "reign_end": 1388,
+        "notes": "Built canals; restored monuments"
+      },
+      {
+        "name": "Tughlaq Shah II",
+        "reign_start": 1388,
+        "reign_end": 1389,
+        "notes": ""
+      },
+      {
+        "name": "Abu Bakr Shah",
+        "reign_start": 1389,
+        "reign_end": 1390,
+        "notes": ""
+      },
+      {
+        "name": "Nasir-ud-din Muhammad Shah III",
+        "reign_start": 1390,
+        "reign_end": 1394,
+        "notes": ""
+      },
+      {
+        "name": "Mahmud Tughlaq",
+        "reign_start": 1394,
+        "reign_end": 1413,
+        "notes": "Sultanate sacked by Timur 1398"
+      },
+      {
+        "name": "Daulat Khan Lodi",
+        "reign_start": 1413,
+        "reign_end": 1414,
+        "notes": "Last; nominal"
+      }
+    ],
+    "religion": "Islam (Sunni)",
+    "predecessor": "khalji",
+    "successor": "sayyid",
+    "notable_achievements": [
+      "Maximum geographic extent of any Delhi Sultanate dynasty (briefly)",
+      "Token currency experiment by Muhammad bin Tughlaq"
+    ],
+    "notes": "Timur's sack of Delhi in 1398 effectively broke Tughlaq power."
+  },
+  {
+    "slug": "vijayanagara",
+    "name": "Vijayanagara Empire",
+    "alt_names": [
+      "Karnata Empire",
+      "Kingdom of Bisnaga"
+    ],
+    "period": {
+      "start": 1336,
+      "end": 1646,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "South India (most of peninsula south of Krishna)",
+    "capitals": [
+      "Vijayanagara (Hampi)",
+      "Penukonda",
+      "Chandragiri",
+      "Vellore"
+    ],
+    "rulers": [
+      {
+        "name": "Harihara I",
+        "reign_start": 1336,
+        "reign_end": 1356,
+        "notes": "Co-founder (Sangama dynasty)"
+      },
+      {
+        "name": "Bukka Raya I",
+        "reign_start": 1356,
+        "reign_end": 1377,
+        "notes": "Co-founder"
+      },
+      {
+        "name": "Harihara II",
+        "reign_start": 1377,
+        "reign_end": 1404,
+        "notes": ""
+      },
+      {
+        "name": "Deva Raya II",
+        "reign_start": 1424,
+        "reign_end": 1446,
+        "notes": "Patronised Telugu literature"
+      },
+      {
+        "name": "Saluva Narasimha",
+        "reign_start": 1485,
+        "reign_end": 1491,
+        "notes": "Saluva dynasty"
+      },
+      {
+        "name": "Krishnadevaraya",
+        "reign_start": 1509,
+        "reign_end": 1529,
+        "notes": "Greatest ruler; Tuluva dynasty; author of Amuktamalyada"
+      },
+      {
+        "name": "Achyuta Deva Raya",
+        "reign_start": 1529,
+        "reign_end": 1542,
+        "notes": ""
+      },
+      {
+        "name": "Sadashiva Raya",
+        "reign_start": 1542,
+        "reign_end": 1570,
+        "notes": "Defeat at Talikota 1565"
+      },
+      {
+        "name": "Tirumala Deva Raya",
+        "reign_start": 1570,
+        "reign_end": 1572,
+        "notes": "Aravidu dynasty"
+      },
+      {
+        "name": "Sriranga III",
+        "reign_start": 1642,
+        "reign_end": 1646,
+        "notes": "Last"
+      }
+    ],
+    "religion": "Hinduism (Shaiva, Vaishnava); tolerated others",
+    "predecessor": "hoysala",
+    "successor": null,
+    "notable_achievements": [
+      "Hampi (UNESCO) — largest medieval Hindu capital",
+      "Defended south India from northern Sultanates for ~230 years",
+      "Krishnadevaraya — patron of Telugu Astadiggajas"
+    ],
+    "notes": "Four successive dynasties: Sangama (1336–1485), Saluva (1485–1505), Tuluva (1491–1570), Aravidu (1542–1646). Battle of Talikota (1565) effectively ended its peak."
+  },
+  {
+    "slug": "bahmani",
+    "name": "Bahmani Sultanate",
+    "alt_names": [
+      "Bahmanid Sultanate"
+    ],
+    "period": {
+      "start": 1347,
+      "end": 1527,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Deccan",
+    "capitals": [
+      "Gulbarga",
+      "Bidar"
+    ],
+    "rulers": [
+      {
+        "name": "Alauddin Bahman Shah",
+        "reign_start": 1347,
+        "reign_end": 1358,
+        "notes": "Founder; broke from Tughlaqs"
+      },
+      {
+        "name": "Muhammad Shah I",
+        "reign_start": 1358,
+        "reign_end": 1375,
+        "notes": ""
+      },
+      {
+        "name": "Firuz Shah Bahmani",
+        "reign_start": 1397,
+        "reign_end": 1422,
+        "notes": "Patron of scholarship and astronomy"
+      },
+      {
+        "name": "Ahmad Shah I Wali",
+        "reign_start": 1422,
+        "reign_end": 1436,
+        "notes": "Moved capital to Bidar"
+      },
+      {
+        "name": "Muhammad Shah III",
+        "reign_start": 1463,
+        "reign_end": 1482,
+        "notes": "Mahmud Gawan's reforms"
+      },
+      {
+        "name": "Kalimullah Shah",
+        "reign_start": 1525,
+        "reign_end": 1527,
+        "notes": "Last; sultanate fragmented into Deccan sultanates"
+      }
+    ],
+    "religion": "Islam (Sunni; later Shia influence)",
+    "predecessor": "tughlaq",
+    "successor": null,
+    "notable_achievements": [
+      "First independent Muslim sultanate of the Deccan",
+      "Patronage of Persian and Dakhni Urdu",
+      "Madrasa of Mahmud Gawan at Bidar"
+    ],
+    "notes": "Fragmented into the five Deccan Sultanates (Ahmadnagar, Bijapur, Berar, Golconda, Bidar) c. 1490–1527."
+  },
+  {
+    "slug": "mysore",
+    "name": "Kingdom of Mysore (Wadiyar & Sultanate)",
+    "alt_names": [
+      "Wadiyar Dynasty",
+      "Sultanate of Mysore"
+    ],
+    "period": {
+      "start": 1399,
+      "end": 1947,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Southern Karnataka",
+    "capitals": [
+      "Mysore",
+      "Srirangapatna"
+    ],
+    "rulers": [
+      {
+        "name": "Yaduraya Wadiyar",
+        "reign_start": 1399,
+        "reign_end": 1423,
+        "notes": "Founder of Wadiyar line; Vijayanagara feudatory"
+      },
+      {
+        "name": "Raja Wadiyar I",
+        "reign_start": 1578,
+        "reign_end": 1617,
+        "notes": "Independent from Vijayanagara after Talikota"
+      },
+      {
+        "name": "Chikka Devaraja Wadiyar",
+        "reign_start": 1673,
+        "reign_end": 1704,
+        "notes": "Resisted Mughal expansion"
+      },
+      {
+        "name": "Hyder Ali",
+        "reign_start": 1761,
+        "reign_end": 1782,
+        "notes": "De facto ruler; usurper; First and Second Anglo-Mysore Wars"
+      },
+      {
+        "name": "Tipu Sultan",
+        "reign_start": 1782,
+        "reign_end": 1799,
+        "notes": "Killed at fall of Srirangapatna; pioneered war rockets"
+      },
+      {
+        "name": "Krishnaraja Wadiyar III",
+        "reign_start": 1799,
+        "reign_end": 1868,
+        "notes": "British restored Wadiyar line as princely state"
+      },
+      {
+        "name": "Jayachamarajendra Wadiyar",
+        "reign_start": 1940,
+        "reign_end": 1950,
+        "notes": "Last; acceded to Indian Union 1947"
+      }
+    ],
+    "religion": "Hinduism (Wadiyars); Islam (Hyder Ali / Tipu)",
+    "predecessor": "vijayanagara",
+    "successor": null,
+    "notable_achievements": [
+      "Tipu Sultan's war rockets (precursor to modern artillery rockets)",
+      "Long Wadiyar continuity from Vijayanagara feudatory to Indian Republic"
+    ],
+    "notes": "Partial ruler list across 25+ Wadiyars plus the Sultanate interregnum. Princely state status 1799–1947."
+  },
+  {
+    "slug": "sayyid",
+    "name": "Sayyid Dynasty",
+    "alt_names": [
+      "Sayyids of Delhi"
+    ],
+    "period": {
+      "start": 1414,
+      "end": 1451,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Region around Delhi",
+    "capitals": [
+      "Delhi"
+    ],
+    "rulers": [
+      {
+        "name": "Khizr Khan",
+        "reign_start": 1414,
+        "reign_end": 1421,
+        "notes": "Founder; nominal vassal of Timurids"
+      },
+      {
+        "name": "Mubarak Shah",
+        "reign_start": 1421,
+        "reign_end": 1434,
+        "notes": ""
+      },
+      {
+        "name": "Muhammad Shah",
+        "reign_start": 1434,
+        "reign_end": 1445,
+        "notes": ""
+      },
+      {
+        "name": "Alam Shah",
+        "reign_start": 1445,
+        "reign_end": 1451,
+        "notes": "Last; abdicated to Bahlul Lodi"
+      }
+    ],
+    "religion": "Islam (Sunni)",
+    "predecessor": "tughlaq",
+    "successor": "lodi",
+    "notable_achievements": [
+      "Held a much-diminished Delhi Sultanate together for 37 years"
+    ],
+    "notes": "Claimed descent from Prophet Muhammad; minor dynasty by territorial extent."
+  },
+  {
+    "slug": "lodi",
+    "name": "Lodi Dynasty",
+    "alt_names": [
+      "Lodhi"
+    ],
+    "period": {
+      "start": 1451,
+      "end": 1526,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern India",
+    "capitals": [
+      "Delhi",
+      "Agra"
+    ],
+    "rulers": [
+      {
+        "name": "Bahlul Lodi",
+        "reign_start": 1451,
+        "reign_end": 1489,
+        "notes": "Founder; Afghan"
+      },
+      {
+        "name": "Sikandar Lodi",
+        "reign_start": 1489,
+        "reign_end": 1517,
+        "notes": "Founded Agra"
+      },
+      {
+        "name": "Ibrahim Lodi",
+        "reign_start": 1517,
+        "reign_end": 1526,
+        "notes": "Last; killed at First Battle of Panipat by Babur"
+      }
+    ],
+    "religion": "Islam (Sunni)",
+    "predecessor": "sayyid",
+    "successor": "mughal",
+    "notable_achievements": [
+      "First Afghan dynasty in India",
+      "Foundation of Agra"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "mughal",
+    "name": "Mughal Empire",
+    "alt_names": [
+      "Mogul Empire",
+      "Gurkani"
+    ],
+    "period": {
+      "start": 1526,
+      "end": 1857,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Most of the Indian subcontinent (peak under Aurangzeb)",
+    "capitals": [
+      "Agra",
+      "Fatehpur Sikri",
+      "Delhi (Shahjahanabad)"
+    ],
+    "rulers": [
+      {
+        "name": "Babur",
+        "reign_start": 1526,
+        "reign_end": 1530,
+        "notes": "Founder; victory at Panipat"
+      },
+      {
+        "name": "Humayun",
+        "reign_start": 1530,
+        "reign_end": 1540,
+        "notes": "First reign; lost to Sher Shah Suri"
+      },
+      {
+        "name": "Humayun",
+        "reign_start": 1555,
+        "reign_end": 1556,
+        "notes": "Second reign; restored"
+      },
+      {
+        "name": "Akbar",
+        "reign_start": 1556,
+        "reign_end": 1605,
+        "notes": "Greatest Mughal; Din-i-Ilahi; consolidated empire"
+      },
+      {
+        "name": "Jahangir",
+        "reign_start": 1605,
+        "reign_end": 1627,
+        "notes": "Patron of Mughal painting"
+      },
+      {
+        "name": "Shah Jahan",
+        "reign_start": 1628,
+        "reign_end": 1658,
+        "notes": "Architectural peak; Taj Mahal, Red Fort"
+      },
+      {
+        "name": "Aurangzeb (Alamgir)",
+        "reign_start": 1658,
+        "reign_end": 1707,
+        "notes": "Maximum extent; Deccan wars exhausted empire"
+      },
+      {
+        "name": "Bahadur Shah I",
+        "reign_start": 1707,
+        "reign_end": 1712,
+        "notes": ""
+      },
+      {
+        "name": "Muhammad Shah",
+        "reign_start": 1719,
+        "reign_end": 1748,
+        "notes": "Nadir Shah sacked Delhi 1739"
+      },
+      {
+        "name": "Shah Alam II",
+        "reign_start": 1759,
+        "reign_end": 1806,
+        "notes": "Battle of Buxar; British protectorate from 1765"
+      },
+      {
+        "name": "Bahadur Shah II (Zafar)",
+        "reign_start": 1837,
+        "reign_end": 1857,
+        "notes": "Last Mughal; exiled by British after 1857 revolt"
+      }
+    ],
+    "religion": "Islam (Sunni); Akbar's syncretism; Aurangzeb orthodox",
+    "predecessor": "lodi",
+    "successor": "british-raj",
+    "notable_achievements": [
+      "Taj Mahal, Red Fort, Fatehpur Sikri (UNESCO)",
+      "Persian as administrative language",
+      "Mughal miniature painting",
+      "Akbar's policy of sulh-i-kul"
+    ],
+    "notes": "Partial ruler list — 19 emperors total. Imperial power effectively ended after Aurangzeb (1707); successors increasingly nominal."
+  },
+  {
+    "slug": "sur",
+    "name": "Sur Empire",
+    "alt_names": [
+      "Suri Dynasty"
+    ],
+    "period": {
+      "start": 1540,
+      "end": 1556,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Northern India",
+    "capitals": [
+      "Sasaram",
+      "Delhi"
+    ],
+    "rulers": [
+      {
+        "name": "Sher Shah Suri",
+        "reign_start": 1540,
+        "reign_end": 1545,
+        "notes": "Founder; defeated Humayun; remarkable administrative reformer"
+      },
+      {
+        "name": "Islam Shah Suri",
+        "reign_start": 1545,
+        "reign_end": 1554,
+        "notes": ""
+      },
+      {
+        "name": "Firuz Shah Suri",
+        "reign_start": 1554,
+        "reign_end": 1554,
+        "notes": ""
+      },
+      {
+        "name": "Muhammad Adil Shah Suri",
+        "reign_start": 1554,
+        "reign_end": 1555,
+        "notes": ""
+      },
+      {
+        "name": "Sikandar Shah Suri",
+        "reign_start": 1555,
+        "reign_end": 1556,
+        "notes": "Last; defeated by Humayun"
+      }
+    ],
+    "religion": "Islam (Sunni)",
+    "predecessor": "mughal",
+    "successor": "mughal",
+    "notable_achievements": [
+      "Sher Shah's revenue system (basis for Akbar's)",
+      "Grand Trunk Road revival",
+      "Rupiya silver coin (origin of modern rupee)"
+    ],
+    "notes": "Interregnum between Humayun's first and second Mughal reigns. Brief, but Sher Shah's reforms shaped Mughal administration."
+  },
+  {
+    "slug": "maratha",
+    "name": "Maratha Empire",
+    "alt_names": [
+      "Maratha Confederacy",
+      "Bhonsle Dynasty"
+    ],
+    "period": {
+      "start": 1674,
+      "end": 1818,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Most of subcontinent (peak); from Attock to Tanjore",
+    "capitals": [
+      "Raigad",
+      "Satara",
+      "Pune (Peshwa)"
+    ],
+    "rulers": [
+      {
+        "name": "Chhatrapati Shivaji",
+        "reign_start": 1674,
+        "reign_end": 1680,
+        "notes": "Founder; crowned at Raigad"
+      },
+      {
+        "name": "Sambhaji",
+        "reign_start": 1681,
+        "reign_end": 1689,
+        "notes": "Tortured to death by Aurangzeb"
+      },
+      {
+        "name": "Rajaram",
+        "reign_start": 1689,
+        "reign_end": 1700,
+        "notes": ""
+      },
+      {
+        "name": "Tarabai (regent)",
+        "reign_start": 1700,
+        "reign_end": 1708,
+        "notes": "Regent for son Shivaji II"
+      },
+      {
+        "name": "Shahu I",
+        "reign_start": 1708,
+        "reign_end": 1749,
+        "notes": "Peshwa office became hereditary under him"
+      },
+      {
+        "name": "Ramaraja",
+        "reign_start": 1749,
+        "reign_end": 1777,
+        "notes": "Nominal; real power with Peshwas at Pune"
+      },
+      {
+        "name": "Shahu II",
+        "reign_start": 1777,
+        "reign_end": 1808,
+        "notes": ""
+      },
+      {
+        "name": "Pratapsinh",
+        "reign_start": 1808,
+        "reign_end": 1818,
+        "notes": "Last sovereign Chhatrapati; deposed by British after Third Anglo-Maratha War"
+      }
+    ],
+    "religion": "Hinduism",
+    "predecessor": "mughal",
+    "successor": "british-raj",
+    "notable_achievements": [
+      "Successfully resisted and then supplanted Mughal power across most of India",
+      "Naval strength under Kanhoji Angre",
+      "Confederation of Peshwa-Scindia-Gaikwad-Holkar-Bhonsle"
+    ],
+    "notes": "After Shahu I, real power passed to the Peshwas (Bajirao I, Balaji Bajirao, etc.). Third Battle of Panipat (1761) was a major setback. Confederation broke up in three Anglo-Maratha Wars (1775-1818)."
+  },
+  {
+    "slug": "travancore",
+    "name": "Kingdom of Travancore",
+    "alt_names": [
+      "Venad"
+    ],
+    "period": {
+      "start": 1729,
+      "end": 1949,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Southern Kerala, parts of Tamil Nadu",
+    "capitals": [
+      "Padmanabhapuram",
+      "Thiruvananthapuram"
+    ],
+    "rulers": [
+      {
+        "name": "Marthanda Varma",
+        "reign_start": 1729,
+        "reign_end": 1758,
+        "notes": "Founder of modern Travancore; defeated Dutch at Colachel 1741"
+      },
+      {
+        "name": "Dharma Raja Karthika Thirunal",
+        "reign_start": 1758,
+        "reign_end": 1798,
+        "notes": "Resisted Tipu Sultan"
+      },
+      {
+        "name": "Swathi Thirunal",
+        "reign_start": 1829,
+        "reign_end": 1846,
+        "notes": "Composer of Carnatic music"
+      },
+      {
+        "name": "Chithira Thirunal Balarama Varma",
+        "reign_start": 1931,
+        "reign_end": 1949,
+        "notes": "Last; acceded to Indian Union"
+      }
+    ],
+    "religion": "Hinduism (Vaishnava)",
+    "predecessor": null,
+    "successor": null,
+    "notable_achievements": [
+      "Battle of Colachel (1741) — only Indian defeat of a European naval force",
+      "High literacy and education reforms",
+      "Princely state with progressive administration"
+    ],
+    "notes": "Partial ruler list — major rulers only."
+  },
+  {
+    "slug": "sikh-empire",
+    "name": "Sikh Empire",
+    "alt_names": [
+      "Sarkar-i-Khalsa"
+    ],
+    "period": {
+      "start": 1799,
+      "end": 1849,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Punjab, Kashmir, Khyber, parts of Tibet",
+    "capitals": [
+      "Lahore"
+    ],
+    "rulers": [
+      {
+        "name": "Maharaja Ranjit Singh",
+        "reign_start": 1799,
+        "reign_end": 1839,
+        "notes": "Founder; unified Sikh misls; modernised army with European officers"
+      },
+      {
+        "name": "Kharak Singh",
+        "reign_start": 1839,
+        "reign_end": 1840,
+        "notes": ""
+      },
+      {
+        "name": "Nau Nihal Singh",
+        "reign_start": 1840,
+        "reign_end": 1840,
+        "notes": ""
+      },
+      {
+        "name": "Sher Singh",
+        "reign_start": 1841,
+        "reign_end": 1843,
+        "notes": ""
+      },
+      {
+        "name": "Duleep Singh",
+        "reign_start": 1843,
+        "reign_end": 1849,
+        "notes": "Last; annexed by British after Second Anglo-Sikh War"
+      }
+    ],
+    "religion": "Sikhism (official); religious pluralism in practice",
+    "predecessor": null,
+    "successor": "british-raj",
+    "notable_achievements": [
+      "Only Indian power to push Khyber boundary west of Indus",
+      "Modernised army (Khalsa Fauj) under European generals (Allard, Ventura)",
+      "Last independent Indian polity before British annexation of Punjab"
+    ],
+    "notes": ""
+  },
+  {
+    "slug": "british-raj",
+    "name": "British Raj",
+    "alt_names": [
+      "British India",
+      "Crown Rule"
+    ],
+    "period": {
+      "start": 1858,
+      "end": 1947,
+      "start_era": "CE",
+      "end_era": "CE"
+    },
+    "region": "Indian subcontinent (British India + princely states)",
+    "capitals": [
+      "Calcutta (until 1911)",
+      "New Delhi"
+    ],
+    "rulers": [
+      {
+        "name": "Queen Victoria",
+        "reign_start": 1858,
+        "reign_end": 1901,
+        "notes": "Empress of India from 1876"
+      },
+      {
+        "name": "Edward VII",
+        "reign_start": 1901,
+        "reign_end": 1910,
+        "notes": ""
+      },
+      {
+        "name": "George V",
+        "reign_start": 1910,
+        "reign_end": 1936,
+        "notes": "Delhi Durbar 1911; capital moved to New Delhi"
+      },
+      {
+        "name": "Edward VIII",
+        "reign_start": 1936,
+        "reign_end": 1936,
+        "notes": "Abdicated"
+      },
+      {
+        "name": "George VI",
+        "reign_start": 1936,
+        "reign_end": 1947,
+        "notes": "Last Emperor of India; partition and independence"
+      }
+    ],
+    "religion": "Christianity (Church of England, official); religious pluralism in practice",
+    "predecessor": "mughal",
+    "successor": null,
+    "notable_achievements": [
+      "Pan-Indian railways, post, telegraph, codified law",
+      "Severe famines and economic extraction; basis of large modern historiography"
+    ],
+    "notes": "East India Company rule (1757–1858) preceded Crown rule; this record covers Crown Raj only. Sovereigns listed are titular; effective rule was the Governor-General / Viceroy."
+  }
+]

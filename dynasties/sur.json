@@ -1,0 +1,59 @@
+{
+  "slug": "sur",
+  "name": "Sur Empire",
+  "alt_names": [
+    "Suri Dynasty"
+  ],
+  "period": {
+    "start": 1540,
+    "end": 1556,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern India",
+  "capitals": [
+    "Sasaram",
+    "Delhi"
+  ],
+  "rulers": [
+    {
+      "name": "Sher Shah Suri",
+      "reign_start": 1540,
+      "reign_end": 1545,
+      "notes": "Founder; defeated Humayun; remarkable administrative reformer"
+    },
+    {
+      "name": "Islam Shah Suri",
+      "reign_start": 1545,
+      "reign_end": 1554,
+      "notes": ""
+    },
+    {
+      "name": "Firuz Shah Suri",
+      "reign_start": 1554,
+      "reign_end": 1554,
+      "notes": ""
+    },
+    {
+      "name": "Muhammad Adil Shah Suri",
+      "reign_start": 1554,
+      "reign_end": 1555,
+      "notes": ""
+    },
+    {
+      "name": "Sikandar Shah Suri",
+      "reign_start": 1555,
+      "reign_end": 1556,
+      "notes": "Last; defeated by Humayun"
+    }
+  ],
+  "religion": "Islam (Sunni)",
+  "predecessor": "mughal",
+  "successor": "mughal",
+  "notable_achievements": [
+    "Sher Shah's revenue system (basis for Akbar's)",
+    "Grand Trunk Road revival",
+    "Rupiya silver coin (origin of modern rupee)"
+  ],
+  "notes": "Interregnum between Humayun's first and second Mughal reigns. Brief, but Sher Shah's reforms shaped Mughal administration."
+}

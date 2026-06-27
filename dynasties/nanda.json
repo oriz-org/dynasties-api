@@ -1,0 +1,39 @@
+{
+  "slug": "nanda",
+  "name": "Nanda Dynasty",
+  "alt_names": [
+    "Nanda Empire"
+  ],
+  "period": {
+    "start": -345,
+    "end": -322,
+    "start_era": "BCE",
+    "end_era": "BCE"
+  },
+  "region": "Northern India",
+  "capitals": [
+    "Pataliputra"
+  ],
+  "rulers": [
+    {
+      "name": "Mahapadma Nanda",
+      "reign_start": -345,
+      "reign_end": -329,
+      "notes": "Founder; \"uprooter of all kshatriyas\""
+    },
+    {
+      "name": "Dhana Nanda",
+      "reign_start": -329,
+      "reign_end": -322,
+      "notes": "Last Nanda; overthrown by Chandragupta Maurya"
+    }
+  ],
+  "religion": "Hinduism, Jainism",
+  "predecessor": "shishunaga",
+  "successor": "mauryan",
+  "notable_achievements": [
+    "Largest Indian empire before the Mauryas",
+    "Standing army recorded by Greek sources"
+  ],
+  "notes": "Tradition records eight sons of Mahapadma; only first and last are securely dated."
+}

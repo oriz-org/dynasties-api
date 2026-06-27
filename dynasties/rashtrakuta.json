@@ -1,0 +1,88 @@
+{
+  "slug": "rashtrakuta",
+  "name": "Rashtrakuta Dynasty",
+  "alt_names": [
+    "Rashtrakutas of Manyakheta"
+  ],
+  "period": {
+    "start": 753,
+    "end": 982,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Deccan (most of modern Maharashtra, Karnataka, AP, parts of north India)",
+  "capitals": [
+    "Manyakheta (Malkhed)"
+  ],
+  "rulers": [
+    {
+      "name": "Dantidurga",
+      "reign_start": 753,
+      "reign_end": 756,
+      "notes": "Founder; overthrew Chalukyas of Badami"
+    },
+    {
+      "name": "Krishna I",
+      "reign_start": 756,
+      "reign_end": 774,
+      "notes": "Built Kailasa Temple at Ellora"
+    },
+    {
+      "name": "Dhruva Dharavarsha",
+      "reign_start": 780,
+      "reign_end": 793,
+      "notes": "First Rashtrakuta to win the tripartite struggle"
+    },
+    {
+      "name": "Govinda III",
+      "reign_start": 793,
+      "reign_end": 814,
+      "notes": "Greatest military success; defeated Palas and Pratiharas"
+    },
+    {
+      "name": "Amoghavarsha I",
+      "reign_start": 814,
+      "reign_end": 878,
+      "notes": "Patron of Jainism; author of Kavirajamarga (earliest Kannada poetics)"
+    },
+    {
+      "name": "Krishna II",
+      "reign_start": 878,
+      "reign_end": 914,
+      "notes": ""
+    },
+    {
+      "name": "Indra III",
+      "reign_start": 914,
+      "reign_end": 929,
+      "notes": "Sacked Kannauj"
+    },
+    {
+      "name": "Krishna III",
+      "reign_start": 939,
+      "reign_end": 967,
+      "notes": "Defeated Cholas"
+    },
+    {
+      "name": "Karka II",
+      "reign_start": 972,
+      "reign_end": 973,
+      "notes": ""
+    },
+    {
+      "name": "Indra IV",
+      "reign_start": 973,
+      "reign_end": 982,
+      "notes": "Last; took sallekhana (Jain ritual fast unto death)"
+    }
+  ],
+  "religion": "Hinduism (Shaiva, Vaishnava); strong Jain patronage",
+  "predecessor": "chalukya-badami",
+  "successor": "chalukya-kalyani",
+  "notable_achievements": [
+    "Kailasa Temple at Ellora (monolithic)",
+    "Amoghavarsha's Kavirajamarga — first work in Kannada literature",
+    "Arab geographers ranked Rashtrakutas among \"Four Great Kingdoms\" of the world"
+  ],
+  "notes": ""
+}

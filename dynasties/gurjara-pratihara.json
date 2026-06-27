@@ -1,0 +1,75 @@
+{
+  "slug": "gurjara-pratihara",
+  "name": "Gurjara-Pratihara Dynasty",
+  "alt_names": [
+    "Pratiharas of Kannauj"
+  ],
+  "period": {
+    "start": 730,
+    "end": 1036,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern India",
+  "capitals": [
+    "Kannauj"
+  ],
+  "rulers": [
+    {
+      "name": "Nagabhata I",
+      "reign_start": 730,
+      "reign_end": 760,
+      "notes": "Founder; repelled Arab invasions"
+    },
+    {
+      "name": "Vatsaraja",
+      "reign_start": 775,
+      "reign_end": 805,
+      "notes": "Tripartite struggle for Kannauj"
+    },
+    {
+      "name": "Nagabhata II",
+      "reign_start": 805,
+      "reign_end": 833,
+      "notes": "Captured Kannauj"
+    },
+    {
+      "name": "Mihira Bhoja",
+      "reign_start": 836,
+      "reign_end": 885,
+      "notes": "Greatest Pratihara; empire from Sutlej to Narmada"
+    },
+    {
+      "name": "Mahendrapala I",
+      "reign_start": 885,
+      "reign_end": 910,
+      "notes": "Patron of Rajashekhara"
+    },
+    {
+      "name": "Mahipala I",
+      "reign_start": 913,
+      "reign_end": 944,
+      "notes": "Sack of Kannauj by Indra III Rashtrakuta"
+    },
+    {
+      "name": "Rajyapala",
+      "reign_start": 1018,
+      "reign_end": 1018,
+      "notes": "Fled Mahmud of Ghazni; killed by Chandella"
+    },
+    {
+      "name": "Yashapala",
+      "reign_start": 1024,
+      "reign_end": 1036,
+      "notes": "Last Pratihara"
+    }
+  ],
+  "religion": "Hinduism (Vaishnava, Shaiva)",
+  "predecessor": null,
+  "successor": "gahadavala",
+  "notable_achievements": [
+    "Buffer against Arab expansion eastward",
+    "Tripartite struggle (with Palas and Rashtrakutas) for Kannauj"
+  ],
+  "notes": "Partial ruler list; tripartite-struggle period spans century of Indian history."
+}

@@ -1,0 +1,200 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Explorer &mdash; Indian Dynasties" path="/explorer">
+  <section class="mx-auto max-w-5xl px-6 pt-16 pb-8">
+    <p class="font-mono text-xs uppercase tracking-wider text-forest-700 dark:text-forest-400">Interactive</p>
+    <h1 class="mt-2 text-4xl font-bold tracking-tight">Live explorer</h1>
+    <p class="mt-3 max-w-2xl text-zinc-600 dark:text-zinc-400">Pick an era, then a dynasty &mdash; the response below is fetched live from this site's own JSON endpoints. No server, no API key.</p>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-6 py-8">
+    <form id="explorer-form" class="grid gap-4 sm:grid-cols-2">
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Era</span>
+        <select
+          id="era-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-forest-500 focus:outline-none focus:ring-1 focus:ring-forest-500 dark:border-zinc-700 dark:bg-zinc-900"
+        >
+          <option value="">Loading&hellip;</option>
+        </select>
+      </label>
+      <label class="block">
+        <span class="block text-sm font-medium text-zinc-700 dark:text-zinc-300">Dynasty</span>
+        <select
+          id="dynasty-select"
+          class="mt-2 w-full rounded-md border border-zinc-300 bg-white px-3 py-2 font-mono text-sm shadow-sm focus:border-forest-500 focus:outline-none focus:ring-1 focus:ring-forest-500 disabled:opacity-50 dark:border-zinc-700 dark:bg-zinc-900"
+          disabled
+        >
+          <option value="">Pick an era first</option>
+        </select>
+      </label>
+    </form>
+
+    <div class="mt-8">
+      <div class="flex items-center justify-between">
+        <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Summary</span>
+        <a
+          id="endpoint-link"
+          href="#"
+          class="font-mono text-xs text-zinc-600 underline decoration-zinc-400 underline-offset-4 hover:text-forest-700 dark:text-zinc-400 dark:hover:text-forest-400"
+          target="_blank"
+          rel="noopener noreferrer"
+        ></a>
+      </div>
+      <div id="summary" class="mt-3 rounded-md border border-zinc-200 bg-zinc-50 p-4 text-sm dark:border-zinc-800 dark:bg-zinc-900">
+        Select a dynasty above.
+      </div>
+    </div>
+
+    <div class="mt-6">
+      <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Rulers</span>
+      <div id="rulers-wrap" class="mt-3 overflow-x-auto rounded-md border border-zinc-200 dark:border-zinc-800">
+        <table class="w-full text-sm">
+          <thead class="bg-zinc-50 text-left dark:bg-zinc-900/50">
+            <tr>
+              <th class="px-4 py-2 font-medium">Ruler</th>
+              <th class="px-4 py-2 font-medium">Reign</th>
+              <th class="px-4 py-2 font-medium">Notes</th>
+            </tr>
+          </thead>
+          <tbody id="rulers-body" class="divide-y divide-zinc-200 dark:divide-zinc-800">
+            <tr><td colspan="3" class="px-4 py-3 text-zinc-500">No dynasty selected.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="mt-6">
+      <span class="text-xs font-semibold uppercase tracking-wider text-zinc-500 dark:text-zinc-500">Raw JSON</span>
+      <pre
+        id="result"
+        class="mt-3 min-h-[200px] overflow-x-auto rounded-md border border-zinc-200 bg-zinc-50 p-4 text-xs dark:border-zinc-800 dark:bg-zinc-900"
+      ><code id="result-code" class="font-mono text-zinc-800 dark:text-zinc-200">Select a dynasty above.</code></pre>
+    </div>
+  </section>
+
+  <script is:inline>
+    (async function () {
+      const eraSelect = document.getElementById('era-select');
+      const dynSelect = document.getElementById('dynasty-select');
+      const resultCode = document.getElementById('result-code');
+      const endpointLink = document.getElementById('endpoint-link');
+      const summary = document.getElementById('summary');
+      const rulersBody = document.getElementById('rulers-body');
+
+      let allRecords = [];
+      let erasData = [];
+
+      function fmtYear(y) {
+        if (y === null || y === undefined) return '—';
+        return y < 0 ? (-y) + ' BCE' : y + ' CE';
+      }
+      function fmtRange(s, e) {
+        return fmtYear(s) + ' – ' + fmtYear(e);
+      }
+
+      function setResult(text, endpoint) {
+        resultCode.textContent = text;
+        if (endpoint) {
+          endpointLink.textContent = endpoint;
+          endpointLink.href = endpoint;
+        } else {
+          endpointLink.textContent = '';
+          endpointLink.removeAttribute('href');
+        }
+      }
+
+      function renderSummary(d) {
+        summary.innerHTML =
+          '<div class="font-semibold text-base text-zinc-900 dark:text-zinc-100">' + d.name + '</div>' +
+          '<div class="mt-1 font-mono text-xs text-forest-700 dark:text-forest-400">' + fmtRange(d.period.start, d.period.end) + '</div>' +
+          '<dl class="mt-3 grid grid-cols-1 gap-x-6 gap-y-2 text-sm sm:grid-cols-2">' +
+          '<div><dt class="text-xs uppercase tracking-wider text-zinc-500">Region</dt><dd class="text-zinc-700 dark:text-zinc-300">' + (d.region || '—') + '</dd></div>' +
+          '<div><dt class="text-xs uppercase tracking-wider text-zinc-500">Capitals</dt><dd class="text-zinc-700 dark:text-zinc-300">' + (d.capitals || []).join(', ') + '</dd></div>' +
+          '<div><dt class="text-xs uppercase tracking-wider text-zinc-500">Religion</dt><dd class="text-zinc-700 dark:text-zinc-300">' + (d.religion || '—') + '</dd></div>' +
+          '<div><dt class="text-xs uppercase tracking-wider text-zinc-500">Predecessor / Successor</dt><dd class="text-zinc-700 dark:text-zinc-300">' + (d.predecessor || '—') + ' / ' + (d.successor || '—') + '</dd></div>' +
+          '</dl>' +
+          ((d.notable_achievements || []).length
+            ? '<div class="mt-3"><dt class="text-xs uppercase tracking-wider text-zinc-500">Notable</dt><ul class="mt-1 list-disc pl-5 text-sm text-zinc-700 dark:text-zinc-300">' +
+              d.notable_achievements.map((a) => '<li>' + a + '</li>').join('') + '</ul></div>' : '') +
+          (d.notes ? '<p class="mt-3 text-sm text-zinc-600 dark:text-zinc-400">' + d.notes + '</p>' : '');
+      }
+
+      function renderRulers(rulers) {
+        if (!rulers || !rulers.length) {
+          rulersBody.innerHTML = '<tr><td colspan="3" class="px-4 py-3 text-zinc-500">No rulers listed.</td></tr>';
+          return;
+        }
+        rulersBody.innerHTML = rulers.map((r) =>
+          '<tr>' +
+          '<td class="px-4 py-2 text-zinc-900 dark:text-zinc-100">' + r.name + '</td>' +
+          '<td class="px-4 py-2 font-mono text-xs text-zinc-600 dark:text-zinc-400">' + fmtRange(r.reign_start, r.reign_end) + '</td>' +
+          '<td class="px-4 py-2 text-zinc-600 dark:text-zinc-400">' + (r.notes || '') + '</td>' +
+          '</tr>'
+        ).join('');
+      }
+
+      async function loadAll() {
+        try {
+          const [allRes, erasRes] = await Promise.all([fetch('/all.json'), fetch('/eras.json')]);
+          if (!allRes.ok) throw new Error('all.json HTTP ' + allRes.status);
+          if (!erasRes.ok) throw new Error('eras.json HTTP ' + erasRes.status);
+          allRecords = await allRes.json();
+          erasData = await erasRes.json();
+          eraSelect.innerHTML =
+            '<option value="">Select an era&hellip;</option>' +
+            erasData.map((e) => '<option value="' + e.slug + '">' + e.label + ' (' + e.dynasties.length + ')</option>').join('');
+        } catch (err) {
+          eraSelect.innerHTML = '<option value="">Failed to load</option>';
+          setResult('Failed to load: ' + err.message);
+        }
+      }
+
+      function populateDynasties(eraSlug) {
+        const era = erasData.find((e) => e.slug === eraSlug);
+        if (!era) return;
+        const records = era.dynasties
+          .map((slug) => allRecords.find((r) => r.slug === slug))
+          .filter(Boolean)
+          .sort((a, b) => a.period.start - b.period.start);
+        dynSelect.innerHTML =
+          '<option value="">Select a dynasty&hellip;</option>' +
+          records.map((r) => '<option value="' + r.slug + '">' + r.name + ' (' + fmtYear(r.period.start) + ')</option>').join('');
+        dynSelect.disabled = false;
+      }
+
+      async function loadDynasty(slug) {
+        const endpoint = '/dynasties/' + slug + '.json';
+        try {
+          const res = await fetch(endpoint);
+          if (!res.ok) throw new Error('HTTP ' + res.status);
+          const data = await res.json();
+          renderSummary(data);
+          renderRulers(data.rulers);
+          setResult(JSON.stringify(data, null, 2), endpoint);
+        } catch (err) {
+          setResult('Failed to load ' + endpoint + ': ' + err.message);
+        }
+      }
+
+      eraSelect.addEventListener('change', (e) => {
+        if (e.target.value) {
+          populateDynasties(e.target.value);
+          summary.innerHTML = 'Select a dynasty above.';
+          rulersBody.innerHTML = '<tr><td colspan="3" class="px-4 py-3 text-zinc-500">No dynasty selected.</td></tr>';
+          setResult('Select a dynasty above.');
+        } else {
+          dynSelect.disabled = true;
+          dynSelect.innerHTML = '<option value="">Pick an era first</option>';
+        }
+      });
+
+      dynSelect.addEventListener('change', (e) => {
+        if (e.target.value) loadDynasty(e.target.value);
+      });
+
+      await loadAll();
+    })();
+  </script>
+</Layout>

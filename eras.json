@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "ancient",
+    "label": "Ancient (pre-600 CE)",
+    "dynasties": [
+      "haryanka",
+      "shishunaga",
+      "nanda",
+      "mauryan",
+      "satavahana",
+      "shunga",
+      "kanva",
+      "kushan",
+      "western-kshatrapa",
+      "vakataka",
+      "pallava",
+      "gupta",
+      "pushyabhuti",
+      "chalukya-badami"
+    ]
+  },
+  {
+    "slug": "classical",
+    "label": "Classical / Early Medieval (600–1200 CE)",
+    "dynasties": [
+      "gurjara-pratihara",
+      "pala",
+      "rashtrakuta",
+      "chola",
+      "chalukya-kalyani",
+      "sena"
+    ]
+  },
+  {
+    "slug": "medieval",
+    "label": "Medieval Hindu Kingdoms (1100–1646)",
+    "dynasties": [
+      "hoysala",
+      "kakatiya",
+      "seuna",
+      "pandyan",
+      "ahom",
+      "vijayanagara"
+    ]
+  },
+  {
+    "slug": "sultanate",
+    "label": "Delhi & Deccan Sultanates (1206–1527)",
+    "dynasties": [
+      "mamluk",
+      "khalji",
+      "tughlaq",
+      "bahmani",
+      "sayyid",
+      "lodi"
+    ]
+  },
+  {
+    "slug": "mughal",
+    "label": "Mughal & Successors (1526–1857)",
+    "dynasties": [
+      "mysore",
+      "mughal",
+      "sur"
+    ]
+  },
+  {
+    "slug": "maratha-sikh",
+    "label": "Maratha, Sikh, Regional (1674–1849)",
+    "dynasties": [
+      "maratha",
+      "travancore",
+      "sikh-empire"
+    ]
+  },
+  {
+    "slug": "colonial",
+    "label": "Colonial (1858–1947)",
+    "dynasties": [
+      "british-raj"
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "slug": "pallava",
+  "name": "Pallava Dynasty",
+  "alt_names": [
+    "Pallavas of Kanchi"
+  ],
+  "period": {
+    "start": 275,
+    "end": 897,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "South India (northern Tamil Nadu, Andhra Pradesh)",
+  "capitals": [
+    "Kanchipuram"
+  ],
+  "rulers": [
+    {
+      "name": "Simhavarman I",
+      "reign_start": 275,
+      "reign_end": 300,
+      "notes": "Founder"
+    },
+    {
+      "name": "Mahendravarman I",
+      "reign_start": 600,
+      "reign_end": 630,
+      "notes": "Patron of rock-cut architecture; convert to Shaivism"
+    },
+    {
+      "name": "Narasimhavarman I (Mamalla)",
+      "reign_start": 630,
+      "reign_end": 668,
+      "notes": "Sacked Chalukya capital Vatapi; Mahabalipuram monuments"
+    },
+    {
+      "name": "Mahendravarman II",
+      "reign_start": 668,
+      "reign_end": 670,
+      "notes": ""
+    },
+    {
+      "name": "Paramesvaravarman I",
+      "reign_start": 670,
+      "reign_end": 695,
+      "notes": ""
+    },
+    {
+      "name": "Narasimhavarman II (Rajasimha)",
+      "reign_start": 695,
+      "reign_end": 728,
+      "notes": "Built Kailasanathar and Shore Temples"
+    },
+    {
+      "name": "Nandivarman II",
+      "reign_start": 731,
+      "reign_end": 796,
+      "notes": ""
+    },
+    {
+      "name": "Aparajitavarman",
+      "reign_start": 880,
+      "reign_end": 897,
+      "notes": "Last; defeated by Chola Aditya I"
+    }
+  ],
+  "religion": "Hinduism (Shaiva, Vaishnava); Jainism, Buddhism patronised",
+  "predecessor": null,
+  "successor": "chola",
+  "notable_achievements": [
+    "Mahabalipuram rock-cut monuments (UNESCO)",
+    "Origin of Dravidian temple architecture",
+    "Patronised Tamil and Sanskrit literature"
+  ],
+  "notes": "Early Pallavas (3rd–6th c.) are poorly attested; ruler list focuses on the imperial phase from Simhavishnu onwards."
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "vijayanagara",
+  "name": "Vijayanagara Empire",
+  "alt_names": [
+    "Karnata Empire",
+    "Kingdom of Bisnaga"
+  ],
+  "period": {
+    "start": 1336,
+    "end": 1646,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "South India (most of peninsula south of Krishna)",
+  "capitals": [
+    "Vijayanagara (Hampi)",
+    "Penukonda",
+    "Chandragiri",
+    "Vellore"
+  ],
+  "rulers": [
+    {
+      "name": "Harihara I",
+      "reign_start": 1336,
+      "reign_end": 1356,
+      "notes": "Co-founder (Sangama dynasty)"
+    },
+    {
+      "name": "Bukka Raya I",
+      "reign_start": 1356,
+      "reign_end": 1377,
+      "notes": "Co-founder"
+    },
+    {
+      "name": "Harihara II",
+      "reign_start": 1377,
+      "reign_end": 1404,
+      "notes": ""
+    },
+    {
+      "name": "Deva Raya II",
+      "reign_start": 1424,
+      "reign_end": 1446,
+      "notes": "Patronised Telugu literature"
+    },
+    {
+      "name": "Saluva Narasimha",
+      "reign_start": 1485,
+      "reign_end": 1491,
+      "notes": "Saluva dynasty"
+    },
+    {
+      "name": "Krishnadevaraya",
+      "reign_start": 1509,
+      "reign_end": 1529,
+      "notes": "Greatest ruler; Tuluva dynasty; author of Amuktamalyada"
+    },
+    {
+      "name": "Achyuta Deva Raya",
+      "reign_start": 1529,
+      "reign_end": 1542,
+      "notes": ""
+    },
+    {
+      "name": "Sadashiva Raya",
+      "reign_start": 1542,
+      "reign_end": 1570,
+      "notes": "Defeat at Talikota 1565"
+    },
+    {
+      "name": "Tirumala Deva Raya",
+      "reign_start": 1570,
+      "reign_end": 1572,
+      "notes": "Aravidu dynasty"
+    },
+    {
+      "name": "Sriranga III",
+      "reign_start": 1642,
+      "reign_end": 1646,
+      "notes": "Last"
+    }
+  ],
+  "religion": "Hinduism (Shaiva, Vaishnava); tolerated others",
+  "predecessor": "hoysala",
+  "successor": null,
+  "notable_achievements": [
+    "Hampi (UNESCO) — largest medieval Hindu capital",
+    "Defended south India from northern Sultanates for ~230 years",
+    "Krishnadevaraya — patron of Telugu Astadiggajas"
+  ],
+  "notes": "Four successive dynasties: Sangama (1336–1485), Saluva (1485–1505), Tuluva (1491–1570), Aravidu (1542–1646). Battle of Talikota (1565) effectively ended its peak."
+}

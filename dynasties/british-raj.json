@@ -1,0 +1,59 @@
+{
+  "slug": "british-raj",
+  "name": "British Raj",
+  "alt_names": [
+    "British India",
+    "Crown Rule"
+  ],
+  "period": {
+    "start": 1858,
+    "end": 1947,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Indian subcontinent (British India + princely states)",
+  "capitals": [
+    "Calcutta (until 1911)",
+    "New Delhi"
+  ],
+  "rulers": [
+    {
+      "name": "Queen Victoria",
+      "reign_start": 1858,
+      "reign_end": 1901,
+      "notes": "Empress of India from 1876"
+    },
+    {
+      "name": "Edward VII",
+      "reign_start": 1901,
+      "reign_end": 1910,
+      "notes": ""
+    },
+    {
+      "name": "George V",
+      "reign_start": 1910,
+      "reign_end": 1936,
+      "notes": "Delhi Durbar 1911; capital moved to New Delhi"
+    },
+    {
+      "name": "Edward VIII",
+      "reign_start": 1936,
+      "reign_end": 1936,
+      "notes": "Abdicated"
+    },
+    {
+      "name": "George VI",
+      "reign_start": 1936,
+      "reign_end": 1947,
+      "notes": "Last Emperor of India; partition and independence"
+    }
+  ],
+  "religion": "Christianity (Church of England, official); religious pluralism in practice",
+  "predecessor": "mughal",
+  "successor": null,
+  "notable_achievements": [
+    "Pan-Indian railways, post, telegraph, codified law",
+    "Severe famines and economic extraction; basis of large modern historiography"
+  ],
+  "notes": "East India Company rule (1757–1858) preceded Crown rule; this record covers Crown Raj only. Sovereigns listed are titular; effective rule was the Governor-General / Viceroy."
+}

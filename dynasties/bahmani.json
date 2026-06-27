@@ -1,0 +1,65 @@
+{
+  "slug": "bahmani",
+  "name": "Bahmani Sultanate",
+  "alt_names": [
+    "Bahmanid Sultanate"
+  ],
+  "period": {
+    "start": 1347,
+    "end": 1527,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Deccan",
+  "capitals": [
+    "Gulbarga",
+    "Bidar"
+  ],
+  "rulers": [
+    {
+      "name": "Alauddin Bahman Shah",
+      "reign_start": 1347,
+      "reign_end": 1358,
+      "notes": "Founder; broke from Tughlaqs"
+    },
+    {
+      "name": "Muhammad Shah I",
+      "reign_start": 1358,
+      "reign_end": 1375,
+      "notes": ""
+    },
+    {
+      "name": "Firuz Shah Bahmani",
+      "reign_start": 1397,
+      "reign_end": 1422,
+      "notes": "Patron of scholarship and astronomy"
+    },
+    {
+      "name": "Ahmad Shah I Wali",
+      "reign_start": 1422,
+      "reign_end": 1436,
+      "notes": "Moved capital to Bidar"
+    },
+    {
+      "name": "Muhammad Shah III",
+      "reign_start": 1463,
+      "reign_end": 1482,
+      "notes": "Mahmud Gawan's reforms"
+    },
+    {
+      "name": "Kalimullah Shah",
+      "reign_start": 1525,
+      "reign_end": 1527,
+      "notes": "Last; sultanate fragmented into Deccan sultanates"
+    }
+  ],
+  "religion": "Islam (Sunni; later Shia influence)",
+  "predecessor": "tughlaq",
+  "successor": null,
+  "notable_achievements": [
+    "First independent Muslim sultanate of the Deccan",
+    "Patronage of Persian and Dakhni Urdu",
+    "Madrasa of Mahmud Gawan at Bidar"
+  ],
+  "notes": "Fragmented into the five Deccan Sultanates (Ahmadnagar, Bijapur, Berar, Golconda, Bidar) c. 1490–1527."
+}

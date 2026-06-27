@@ -1,0 +1,71 @@
+{
+  "slug": "vakataka",
+  "name": "Vakataka Dynasty",
+  "alt_names": [
+    "Vakatakas"
+  ],
+  "period": {
+    "start": 250,
+    "end": 500,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Central Deccan (modern Maharashtra, Madhya Pradesh)",
+  "capitals": [
+    "Nandivardhana",
+    "Pravarapura",
+    "Vatsagulma"
+  ],
+  "rulers": [
+    {
+      "name": "Vindhyashakti",
+      "reign_start": 250,
+      "reign_end": 270,
+      "notes": "Founder"
+    },
+    {
+      "name": "Pravarasena I",
+      "reign_start": 270,
+      "reign_end": 330,
+      "notes": "Performed four Ashvamedhas"
+    },
+    {
+      "name": "Rudrasena I",
+      "reign_start": 335,
+      "reign_end": 360,
+      "notes": ""
+    },
+    {
+      "name": "Prithivisena I",
+      "reign_start": 360,
+      "reign_end": 385,
+      "notes": ""
+    },
+    {
+      "name": "Rudrasena II",
+      "reign_start": 385,
+      "reign_end": 390,
+      "notes": "Married Prabhavatigupta, daughter of Chandragupta II"
+    },
+    {
+      "name": "Pravarasena II",
+      "reign_start": 400,
+      "reign_end": 440,
+      "notes": "Composed Setubandha in Prakrit"
+    },
+    {
+      "name": "Harishena",
+      "reign_start": 475,
+      "reign_end": 500,
+      "notes": "Patronised Ajanta caves"
+    }
+  ],
+  "religion": "Hinduism (Shaiva)",
+  "predecessor": "satavahana",
+  "successor": "chalukya-badami",
+  "notable_achievements": [
+    "Patronage of Ajanta caves (Vakataka phase)",
+    "Marriage alliance with Imperial Guptas"
+  ],
+  "notes": "Two branches: Pravarapura-Nandivardhana (main) and Vatsagulma. Ruler list is for the main line."
+}

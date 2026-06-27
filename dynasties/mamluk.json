@@ -1,0 +1,89 @@
+{
+  "slug": "mamluk",
+  "name": "Mamluk Dynasty (Slave Dynasty)",
+  "alt_names": [
+    "Slave Dynasty",
+    "Ghulam Dynasty"
+  ],
+  "period": {
+    "start": 1206,
+    "end": 1290,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern India (Delhi)",
+  "capitals": [
+    "Delhi"
+  ],
+  "rulers": [
+    {
+      "name": "Qutb-ud-din Aibak",
+      "reign_start": 1206,
+      "reign_end": 1210,
+      "notes": "Founder; built Qutb Minar"
+    },
+    {
+      "name": "Aram Shah",
+      "reign_start": 1210,
+      "reign_end": 1211,
+      "notes": ""
+    },
+    {
+      "name": "Iltutmish",
+      "reign_start": 1211,
+      "reign_end": 1236,
+      "notes": "Consolidated sultanate; instituted iqta system"
+    },
+    {
+      "name": "Rukn-ud-din Firuz",
+      "reign_start": 1236,
+      "reign_end": 1236,
+      "notes": ""
+    },
+    {
+      "name": "Razia Sultana",
+      "reign_start": 1236,
+      "reign_end": 1240,
+      "notes": "Only female sultan of Delhi"
+    },
+    {
+      "name": "Muiz-ud-din Bahram",
+      "reign_start": 1240,
+      "reign_end": 1242,
+      "notes": ""
+    },
+    {
+      "name": "Ala-ud-din Masud",
+      "reign_start": 1242,
+      "reign_end": 1246,
+      "notes": ""
+    },
+    {
+      "name": "Nasir-ud-din Mahmud",
+      "reign_start": 1246,
+      "reign_end": 1266,
+      "notes": ""
+    },
+    {
+      "name": "Ghiyas-ud-din Balban",
+      "reign_start": 1266,
+      "reign_end": 1287,
+      "notes": "Restored sultanate authority; Mongol resistance"
+    },
+    {
+      "name": "Muiz-ud-din Kaiqabad",
+      "reign_start": 1287,
+      "reign_end": 1290,
+      "notes": "Last; killed by Khaljis"
+    }
+  ],
+  "religion": "Islam (Sunni)",
+  "predecessor": null,
+  "successor": "khalji",
+  "notable_achievements": [
+    "First Islamic sultanate in India",
+    "Qutb Minar and Quwwat-ul-Islam Mosque",
+    "Razia Sultana — only female sultan"
+  ],
+  "notes": "Part of the Delhi Sultanate — five successive dynasties (Mamluk, Khalji, Tughlaq, Sayyid, Lodi) over 1206–1526."
+}

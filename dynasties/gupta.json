@@ -1,0 +1,88 @@
+{
+  "slug": "gupta",
+  "name": "Gupta Empire",
+  "alt_names": [
+    "Imperial Guptas"
+  ],
+  "period": {
+    "start": 320,
+    "end": 550,
+    "start_era": "CE",
+    "end_era": "CE"
+  },
+  "region": "Northern and central India",
+  "capitals": [
+    "Pataliputra"
+  ],
+  "rulers": [
+    {
+      "name": "Chandragupta I",
+      "reign_start": 320,
+      "reign_end": 335,
+      "notes": "Founder of imperial line"
+    },
+    {
+      "name": "Samudragupta",
+      "reign_start": 335,
+      "reign_end": 375,
+      "notes": "Allahabad pillar prashasti by Harisena"
+    },
+    {
+      "name": "Chandragupta II (Vikramaditya)",
+      "reign_start": 375,
+      "reign_end": 415,
+      "notes": "Defeated Western Kshatrapas; court of Kalidasa"
+    },
+    {
+      "name": "Kumaragupta I",
+      "reign_start": 415,
+      "reign_end": 455,
+      "notes": "Founded Nalanda Mahavihara"
+    },
+    {
+      "name": "Skandagupta",
+      "reign_start": 455,
+      "reign_end": 467,
+      "notes": "Repelled Huna invasion"
+    },
+    {
+      "name": "Purugupta",
+      "reign_start": 467,
+      "reign_end": 473,
+      "notes": ""
+    },
+    {
+      "name": "Kumaragupta II",
+      "reign_start": 473,
+      "reign_end": 476,
+      "notes": ""
+    },
+    {
+      "name": "Budhagupta",
+      "reign_start": 476,
+      "reign_end": 495,
+      "notes": ""
+    },
+    {
+      "name": "Narasimhagupta",
+      "reign_start": 495,
+      "reign_end": 530,
+      "notes": ""
+    },
+    {
+      "name": "Vishnugupta",
+      "reign_start": 540,
+      "reign_end": 550,
+      "notes": "Last major Gupta"
+    }
+  ],
+  "religion": "Hinduism (Vaishnava patronage); Buddhism, Jainism tolerated",
+  "predecessor": "kushan",
+  "successor": "pushyabhuti",
+  "notable_achievements": [
+    "Indian \"Golden Age\": Kalidasa, Aryabhata, Varahamihira, decimal place-value",
+    "Nalanda Mahavihara founded",
+    "Hindu temple architecture standardised"
+  ],
+  "notes": ""
+}
